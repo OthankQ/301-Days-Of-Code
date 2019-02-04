@@ -25,3 +25,14 @@ Couldn't quite get the code to run yet. Will have to work on it some more. But I
 **Link to work:**
 https://github.com/OthankQ/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md
 
+### Day 3: [2/4/2019]
+
+**Today's Progress:**
+Built a landing site for a business idea my friends came up with.
+
+**Thoughts:**
+Although it wasn't built from scratch, it was a good html and css practice.
+
+**Link to work:**
+Private Github repository.
+
