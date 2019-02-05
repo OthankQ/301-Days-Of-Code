@@ -36,3 +36,19 @@ Although it wasn't built from scratch, it was a good html and css practice.
 **Link to work:**
 Private Github repository.
 
+### Day 4: [2/5/2019]
+
+**Today's Progress:**
+Read through the first chapter of You Don't Know Javascript and finished the challenge. Not quite satisfied with the result. Read a bit of PHP tutorial.
+
+**Thoughts:**
+Some people say PHP is out of date. Is it worth checking it out currently? Also, need to put more time into coding.
+
+**Link to work:**
+https://www.learn-php.org/ - PHP tutorial
+https://github.com/OthankQ/You-Dont-Know-JS - YDKJS
+
+
+
+
+
