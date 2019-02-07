@@ -59,5 +59,18 @@ I feel like I still have trouble with CSS layouts in general and coming up with 
 **Link to work:**
 codepen.io
 
+### Day 6: [2/6/2019]
+
+**Today's Progress:**
+Finished structuring the html for the portfolio project on FCC. Looking into the Odin Project for more resources. First time contributing to an open source, although it was just a small typo. Kinda excited!
+
+**Thoughts:**
+It was first time ever contributing to a project. I had to look up how to send a good pull request message but it was worth it!
+
+**Link to work:**
+https://github.com/TheOdinProject/curriculum
+
+
+
 
 
