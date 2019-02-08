@@ -70,7 +70,16 @@ It was first time ever contributing to a project. I had to look up how to send a
 **Link to work:**
 https://github.com/TheOdinProject/curriculum
 
+### Day 7: [2/7/2019]
 
+**Today's Progress:**
+Worked on data structure challenges on FCC.
+
+**Thoughts:**
+Handling arrays. Not too difficult, but I am confused of the reduce() function.
+
+**Link to work:**
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/remove-items-using-splice/
 
 
 
