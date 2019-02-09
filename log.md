@@ -81,5 +81,17 @@ Handling arrays. Not too difficult, but I am confused of the reduce() function.
 **Link to work:**
 https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/remove-items-using-splice/
 
+### Day 8 :[2/8/2019]
+
+**Today's Progress:**
+Coding wise, didn't do much today. Just a couple of javascript challenges on free code camp. Struggled for a while trying to install Xubuntu on a windows virtual machine to set up a Ruby on Rails app. Still struggling.
+
+**Thoughts:**
+Want to start project odin soon...
+
+**Link to work:**
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/copy-array-items-using-slice
+
+
 
 
