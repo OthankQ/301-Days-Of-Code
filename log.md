@@ -92,6 +92,15 @@ Want to start project odin soon...
 **Link to work:**
 https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/copy-array-items-using-slice
 
+### Day 9 :[2/9/2019]
 
+**Today's Progress:**
+Finished Combine Arrays with the Spread Operator challenge on FCC. Have yet to successfully install Ubuntu on my desktop. Won't boot for some reason.
+
+**Thoughts:**
+Want to start project odin soon...
+
+**Link to work:**
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/combine-arrays-with-the-spread-operator
 
 
