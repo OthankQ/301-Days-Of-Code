@@ -103,4 +103,13 @@ Want to start project odin soon...
 **Link to work:**
 https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/combine-arrays-with-the-spread-operator
 
+### Day 10 :[2/10/2019]
 
+**Today's Progress:**
+Couldn't help but feel like I'm missing some of the fundamentals of programming. Listened to some lectures by Simon Allardice. Great lecturer. Didn't do much of coding today though.
+
+**Thoughts:**
+Fundamentals are important.
+
+**Link to work:**
+https://www.lynda.com/Simon-Allardice/21-1.html
