@@ -113,3 +113,14 @@ Fundamentals are important.
 
 **Link to work:**
 https://www.lynda.com/Simon-Allardice/21-1.html
+
+### Day 11 :[2/11/2019]
+
+**Today's Progress:**
+Solved Javascript debugging challenges up to 'Catch Off By One Errors When Using Indexing'
+
+**Thoughts:**
+Read upon databases. Very interesting. Wanting to do some data manipulation.
+
+**Link to work:**
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/debugging/catch-off-by-one-errors-when-using-indexing
