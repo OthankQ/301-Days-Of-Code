@@ -124,3 +124,14 @@ Read upon databases. Very interesting. Wanting to do some data manipulation.
 
 **Link to work:**
 https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/debugging/catch-off-by-one-errors-when-using-indexing
+
+### Day 12 :[2/12/2019]
+
+**Today's Progress:**
+Read about relational database and went over SQL challenges on codecademy to get a sense of what the language looks like.
+
+**Thoughts:**
+Never thought of looking into database manipulation, but looks a lot of fun!
+
+**Link to work:**
+https://www.codecademy.com/courses/learn-sql/lessons/manipulation/exercises/insert?action=resume_content_item
