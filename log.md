@@ -14,6 +14,8 @@ Though I knew enough to start coding stuff. Looks like I really need to work on 
 **Link to work:**
 https://github.com/OthankQ/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md
 
+
+
 ### Day 2: [2/2/2019]
 
 **Today's Progress:**
@@ -25,6 +27,8 @@ Couldn't quite get the code to run yet. Will have to work on it some more. But I
 **Link to work:**
 https://github.com/OthankQ/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md
 
+
+
 ### Day 3: [2/3/2019]
 
 **Today's Progress:**
@@ -35,6 +39,8 @@ Although it wasn't built from scratch, it was a good html and css practice.
 
 **Link to work:**
 Private Github repository.
+
+
 
 ### Day 4: [2/4/2019]
 
@@ -48,6 +54,8 @@ Some people say PHP is out of date. Is it worth checking it out currently? Also,
 https://www.learn-php.org/ - PHP tutorial
 https://github.com/OthankQ/You-Dont-Know-JS - YDKJS
 
+
+
 ### Day 5: [2/5/2019]
 
 **Today's Progress:**
@@ -58,6 +66,8 @@ I feel like I still have trouble with CSS layouts in general and coming up with 
 
 **Link to work:**
 codepen.io
+
+
 
 ### Day 6: [2/6/2019]
 
@@ -70,6 +80,8 @@ It was first time ever contributing to a project. I had to look up how to send a
 **Link to work:**
 https://github.com/TheOdinProject/curriculum
 
+
+
 ### Day 7: [2/7/2019]
 
 **Today's Progress:**
@@ -80,6 +92,8 @@ Handling arrays. Not too difficult, but I am confused of the reduce() function.
 
 **Link to work:**
 https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/remove-items-using-splice/
+
+
 
 ### Day 8 :[2/8/2019]
 
@@ -92,6 +106,8 @@ Want to start project odin soon...
 **Link to work:**
 https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/copy-array-items-using-slice
 
+
+
 ### Day 9 :[2/9/2019]
 
 **Today's Progress:**
@@ -102,6 +118,8 @@ Want to start project odin soon...
 
 **Link to work:**
 https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/combine-arrays-with-the-spread-operator
+
+
 
 ### Day 10 :[2/10/2019]
 
@@ -114,6 +132,8 @@ Fundamentals are important.
 **Link to work:**
 https://www.lynda.com/Simon-Allardice/21-1.html
 
+
+
 ### Day 11 :[2/11/2019]
 
 **Today's Progress:**
@@ -125,6 +145,8 @@ Read upon databases. Very interesting. Wanting to do some data manipulation.
 **Link to work:**
 https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/debugging/catch-off-by-one-errors-when-using-indexing
 
+
+
 ### Day 12 :[2/12/2019]
 
 **Today's Progress:**
@@ -135,3 +157,15 @@ Never thought of looking into database manipulation, but looks a lot of fun!
 
 **Link to work:**
 https://www.codecademy.com/courses/learn-sql/lessons/manipulation/exercises/insert?action=resume_content_item
+
+
+
+### Day 13 :[2/13/2019]
+
+**Today's Progress:**
+Following a tutorial on how to setup a Facebook messenger bot using Node.js and Dialogflow. Currently having trouble with ngrok proxy server. I keep getting 502 bad gateway error.
+**Thoughts:**
+I have no clue why it's not working, yet.
+
+**Link to work:**
+https://medium.com/crowdbotics/how-to-create-your-very-own-facebook-messenger-bot-with-dialogflow-and-node-js-in-just-one-day-f5f2f5792be5
