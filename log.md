@@ -169,3 +169,15 @@ I have no clue why it's not working, yet.
 
 **Link to work:**
 https://medium.com/crowdbotics/how-to-create-your-very-own-facebook-messenger-bot-with-dialogflow-and-node-js-in-just-one-day-f5f2f5792be5
+
+
+
+### Day 14 :[2/14/2019]
+
+**Today's Progress:**
+Was successful on hooking up my webhook server to the Facebook bot page! Will try to hook up APIs to the bot and see if I can make it do what I want!
+**Thoughts:**
+I'm thinking I want to hook up a sports article webpage API to the bot so it can fetch me recent updates on F1 when I ask for them.
+
+**Link to work:**
+https://www.facebook.com/Bot-Tutorial-250905502499752/?modal=admin_todo_tour
