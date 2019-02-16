@@ -181,3 +181,15 @@ I'm thinking I want to hook up a sports article webpage API to the bot so it can
 
 **Link to work:**
 https://www.facebook.com/Bot-Tutorial-250905502499752/?modal=admin_todo_tour
+
+
+
+### Day 15 :[2/15/2019]
+
+**Today's Progress:**
+Still working on my Facebook messenger bot. But meanwhile, also working on the free code camp JS curriculum. Trying to solve 'Iterating through all array items using for loops.' 
+**Thoughts:**
+Asked one of my friends why the code isn't working. He has a CS background but couldn't figure it out. I don't feel so bad now. Will tackle it again as soon as possible!
+
+**Link to work:**
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/iterate-through-all-an-arrays-items-using-for-loops
