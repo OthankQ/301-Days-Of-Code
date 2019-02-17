@@ -193,3 +193,15 @@ Asked one of my friends why the code isn't working. He has a CS background but c
 
 **Link to work:**
 https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/iterate-through-all-an-arrays-items-using-for-loops
+
+
+
+### Day 16 :[2/16/2019]
+
+**Today's Progress:**
+Finished 'Check if an Object has a Property' challenge on free code camp.
+**Thoughts:**
+Trying to figure out the next challenge.
+
+**Link to work:**
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/-iterate-through-the-keys-of-an-object-with-a-for---in-statement
