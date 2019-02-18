@@ -205,3 +205,16 @@ Trying to figure out the next challenge.
 
 **Link to work:**
 https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/-iterate-through-the-keys-of-an-object-with-a-for---in-statement
+
+
+
+### Day 17 :[2/17/2019]
+
+**Today's Progress:**
+Working on 'Basic Algorithm Scripting: Return Largest Numbers in Arrays' challenge on Free code camp.
+
+**Thoughts:**
+These challenges are taking longer than I thought but feels great when I finally solve them!
+
+**Link to work:**
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/return-largest-numbers-in-arrays
