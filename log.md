@@ -225,6 +225,7 @@ https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-a
 
 **Today's Progress:**
 Started 'JavaScript: Understanding the Weird Parts' on Udemy. Learning a lot of things. Can't wait to make my own js framework at end of the course!
+
 **Thoughts:**
 There are still things out there I need to learn in depth!
 
