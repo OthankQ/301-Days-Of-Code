@@ -231,3 +231,16 @@ There are still things out there I need to learn in depth!
 
 **Link to work:**
 https://www.udemy.com/understand-javascript/learn/v4/content
+
+
+
+### Day 19 :[2/19/2019]
+
+**Today's Progress:**
+More 'JavaScript: Understanding the Weird Parts' on Udemy. Learned about execution stack and variable environment.
+
+**Thoughts:**
+Materials look different now that I have dabbled some in Javascript.
+
+**Link to work:**
+https://www.udemy.com/understand-javascript/learn/v4/content
