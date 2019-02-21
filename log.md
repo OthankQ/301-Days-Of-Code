@@ -244,3 +244,16 @@ Materials look different now that I have dabbled some in Javascript.
 
 **Link to work:**
 https://www.udemy.com/understand-javascript/learn/v4/content
+
+
+
+### Day 20 :[2/20/2019]
+
+**Today's Progress:**
+Solved 'Finders Keepers' challenge on Free Code Camp and had fun while doing it! Also listened to more of the 'JavaScript: Understanding the Weird Parts' lecture. Learned about how under the hood, JS is synchronous.
+
+**Thoughts:**
+I love the 'Oh that's why it worked that way!' moments during the lectures.
+
+**Link to work:**
+https://www.udemy.com/understand-javascript/learn/v4/content
