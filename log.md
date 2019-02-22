@@ -257,3 +257,16 @@ I love the 'Oh that's why it worked that way!' moments during the lectures.
 
 **Link to work:**
 https://www.udemy.com/understand-javascript/learn/v4/content
+
+
+
+### Day 21 :[2/21/2019]
+
+**Today's Progress:**
+Started working on my portfolio page which I can actually present. Committed by buying a domain name for it too! Also listened to more of the 'JavaScript: Understanding the Weird Parts'. Went over precedence, associativity and coercion.
+
+**Thoughts:**
+It was about time I had a decent looking portfolio website.
+
+**Link to work:**
+https://www.udemy.com/understand-javascript/learn/v4/content
