@@ -270,3 +270,16 @@ It was about time I had a decent looking portfolio website.
 
 **Link to work:**
 https://www.udemy.com/understand-javascript/learn/v4/content
+
+
+
+### Day 22 :[2/22/2019]
+
+**Today's Progress:**
+Finished the main page of my portfolio site! Now working on the 'about me' section. JS Lecture wise, learned how coercion can lead to interesting behaviors and how some frameworks work around it using || operator, setting default values.
+
+**Thoughts:**
+It was really fun to see why some of the frameworks were wrote in specific way! Can't wait to build my own framework!
+
+**Link to work:**
+https://www.udemy.com/understand-javascript/learn/v4/content
