@@ -283,3 +283,16 @@ It was really fun to see why some of the frameworks were wrote in specific way! 
 
 **Link to work:**
 https://www.udemy.com/understand-javascript/learn/v4/content
+
+
+
+### Day 23 :[2/23/2019]
+
+**Today's Progress:**
+Finished the bio and projects page for my portfolio site! Went over dot notation and bracket notation in 'Javascript: Understanding the Weird Parts' lecture.
+
+**Thoughts:**
+Can't wait to finish my portfolio site!
+
+**Link to work:**
+https://www.udemy.com/understand-javascript/learn/v4/content
