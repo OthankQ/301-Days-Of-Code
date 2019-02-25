@@ -296,3 +296,16 @@ Can't wait to finish my portfolio site!
 
 **Link to work:**
 https://www.udemy.com/understand-javascript/learn/v4/content
+
+
+
+### Day 24 :[2/24/2019]
+
+**Today's Progress:**
+Finished my portfolio site and deployed it using Github Pages! 
+
+**Thoughts:**
+The contents still needs a lot of work but it felt great to have a site deployed under my own domain name!
+
+**Link to work:**
+https://ryandevelops.me
