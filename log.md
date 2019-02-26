@@ -309,3 +309,16 @@ The contents still needs a lot of work but it felt great to have a site deployed
 
 **Link to work:**
 https://ryandevelops.me
+
+
+
+### Day 25 :[2/25/2019]
+
+**Today's Progress:**
+Started working on a book list web app where you can just log the name of books, authors and ISBN. 
+
+**Thoughts:**
+This is a tutorial project and I am hoping to learn about classes, event listeners and arrow functions! Also learned about object literals.
+
+**Link to work:**
+https://www.udemy.com/understand-javascript/learn/v4/content
