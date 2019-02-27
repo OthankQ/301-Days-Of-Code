@@ -322,3 +322,16 @@ This is a tutorial project and I am hoping to learn about classes, event listene
 
 **Link to work:**
 https://www.udemy.com/understand-javascript/learn/v4/content
+
+
+
+### Day 26 :[2/26/2019]
+
+**Today's Progress:**
+Finished the MyBookList app! Tried nodeschool.io and actually managed to solve a few problems! More JS lectures!
+
+**Thoughts:**
+Learned that there are so many things I actually don't know... yet! Learned that in JS, functions are objects!
+
+**Link to work:**
+https://www.udemy.com/understand-javascript/learn/v4/content
