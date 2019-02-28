@@ -335,3 +335,16 @@ Learned that there are so many things I actually don't know... yet! Learned that
 
 **Link to work:**
 https://www.udemy.com/understand-javascript/learn/v4/content
+
+
+
+### Day 27 :[2/27/2019]
+
+**Today's Progress:**
+Learned quite a lot about 'this' keyword in JS. I learned how 'this' usually refers to the object it belongs to, but when it is in an internal function within a method of an object, it points to global object. Also more about arrays!
+
+**Thoughts:**
+More and more I learn about Javascript and programming in general, the more fascinating it looks!
+
+**Link to work:**
+https://www.udemy.com/understand-javascript/learn/v4/content
