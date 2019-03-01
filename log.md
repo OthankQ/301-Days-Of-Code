@@ -348,3 +348,16 @@ More and more I learn about Javascript and programming in general, the more fasc
 
 **Link to work:**
 https://www.udemy.com/understand-javascript/learn/v4/content
+
+
+
+### Day 28 :[2/28/2019]
+
+**Today's Progress:**
+Learned about how JS syntax parser works at certain conditions. Also learned about Immediately Invoked Function Expression(IIFE) and why it works the way it does! Took a look inside the V8 engine and its concept before learning Node!
+
+**Thoughts:**
+It's so cool to being able to open up the V8 engine to see what is happening under the hood!
+
+**Link to work:**
+https://www.udemy.com/understand-javascript/learn/v4/content
