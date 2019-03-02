@@ -361,3 +361,16 @@ It's so cool to being able to open up the V8 engine to see what is happening und
 
 **Link to work:**
 https://www.udemy.com/understand-javascript/learn/v4/content
+
+
+
+### Day 29 :[3/1/2019]
+
+**Today's Progress:**
+Today I learned about closure in JS I also learned what Node consists of and things JS needs to manage a server!
+
+**Thoughts:**
+I really want to start building something with Node now!!!
+
+**Link to work:**
+https://www.udemy.com/understand-javascript/learn/v4/content
