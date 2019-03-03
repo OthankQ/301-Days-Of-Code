@@ -374,3 +374,16 @@ I really want to start building something with Node now!!!
 
 **Link to work:**
 https://www.udemy.com/understand-javascript/learn/v4/content
+
+
+
+### Day 30 :[3/2/2019]
+
+**Today's Progress:**
+Learned about closures and how callback functions work! Also learned about call, apply and bind method! Next, I am going to learn about functional programming paradigm!
+
+**Thoughts:**
+I want to learn more about functional programming!
+
+**Link to work:**
+https://www.udemy.com/understand-javascript/learn/v4/content
