@@ -387,3 +387,16 @@ I want to learn more about functional programming!
 
 **Link to work:**
 https://www.udemy.com/understand-javascript/learn/v4/content
+
+
+
+### Day 31 :[3/3/2019]
+
+**Today's Progress:**
+Today I learned more about functional programming! Function currying, .map() and .filter() method! Also learned a bit about Underscore.js library!
+
+**Thoughts:**
+This is getting exciting!
+
+**Link to work:**
+https://www.udemy.com/understand-javascript/learn/v4/content
