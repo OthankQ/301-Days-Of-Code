@@ -400,3 +400,16 @@ This is getting exciting!
 
 **Link to work:**
 https://www.udemy.com/understand-javascript/learn/v4/content
+
+
+
+### Day 32 :[3/4/2019]
+
+**Today's Progress:**
+Today I learned about prototypal inheritance and how it is different from classical inheritance.
+
+**Thoughts:**
+The concept is not yet easy to grasp. I hope I can see some good examples!
+
+**Link to work:**
+https://www.udemy.com/understand-javascript/learn/v4/content
