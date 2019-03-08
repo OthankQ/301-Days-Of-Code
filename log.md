@@ -413,3 +413,40 @@ The concept is not yet easy to grasp. I hope I can see some good examples!
 
 **Link to work:**
 https://www.udemy.com/understand-javascript/learn/v4/content
+
+
+
+### Day 33 :[3/5/2019]
+
+**Today's Progress:**
+Didn't get to do much except solving OOP challenges up to 'Understand Own Properties' on freecodecamp.
+
+**Thoughts:**
+Totally forgot to tweet my progress yesterday...
+
+**Link to work:**
+https://learn.freecodecamp.org/
+
+
+### Day 34 :[3/6/2019]
+
+**Today's Progress:**
+Read this great article on @Medium and figured what I needed was the ability to breakdown a huge problem into smaller chunks. 
+
+**Thoughts:**
+I actually had fun solving challenges on Coderbyte and FCC today!
+
+**Link to work:**
+https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2
+
+
+### Day 35 :[3/7/2019]
+
+**Today's Progress:**
+Today I worked on some of the katas on @codewars! I also read, learned a bit more about breaking down problems and writing pseudo code. I am also actively looking for open source issues on @github!
+
+**Thoughts:**
+Think I should have done this sooner.
+
+**Link to work:**
+https://www.lynda.com/Programming-Foundations-tutorials/Event-driven-programming/83603/90476-4.html?srchtrk=index%3a3%0alinktypeid%3a2%0aq%3aallardice%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2
