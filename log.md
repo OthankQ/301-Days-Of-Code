@@ -440,6 +440,7 @@ I actually had fun solving challenges on Coderbyte and FCC today!
 https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2
 
 
+
 ### Day 35 :[3/7/2019]
 
 **Today's Progress:**
@@ -450,3 +451,16 @@ Think I should have done this sooner.
 
 **Link to work:**
 https://www.lynda.com/Programming-Foundations-tutorials/Event-driven-programming/83603/90476-4.html?srchtrk=index%3a3%0alinktypeid%3a2%0aq%3aallardice%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2
+
+
+
+### Day 36 :[3/8/2019]
+
+**Today's Progress:**
+Today I learned about function constructor and the 'new' operator! I would love to see real life examples of this being used! I also contributed to an opensource project by updating a json file!
+
+**Thoughts:**
+Feels good to contribute! In what kind of situations do people use function constructors?
+
+**Link to work:**
+https://www.udemy.com/understand-javascript/learn/v4/content
