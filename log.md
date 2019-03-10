@@ -464,3 +464,17 @@ Feels good to contribute! In what kind of situations do people use function cons
 
 **Link to work:**
 https://www.udemy.com/understand-javascript/learn/v4/content
+
+
+
+### Day 37 :[3/9/2019]
+
+**Today's Progress:**
+I learned about ',prototype' today. Still confused. I might have to go over it again. I am attempting to solve 'Basic Algorithm Scripting: Where do I Belong' challenge on FCC! 
+
+**Thoughts:**
+I was surprised how .filter could make things so much easier.
+
+**Link to work:**
+https://www.udemy.com/understand-javascript/learn/v4/content
+
