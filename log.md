@@ -478,3 +478,15 @@ I was surprised how .filter could make things so much easier.
 **Link to work:**
 https://www.udemy.com/understand-javascript/learn/v4/content
 
+
+
+### Day 38 :[3/10/2019]
+
+**Today's Progress:**
+Finished Simon Allardice's programming foundation course.Worked on OOP and Basic Algorithm Structure challenges on freeCodeCamp.
+
+**Thoughts:**
+Basic things but was really helpful for learning general concepts of programming.
+
+**Link to work:**
+https://learn.freecodecamp.org/
