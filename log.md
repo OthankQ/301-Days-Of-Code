@@ -490,3 +490,16 @@ Basic things but was really helpful for learning general concepts of programming
 
 **Link to work:**
 https://learn.freecodecamp.org/
+
+
+
+### Day 39 :[3/11/2019]
+
+**Today's Progress:**
+Solved functional programming challenges on @freeCodeCamp. Also, started looking at jQuery under the hood to see if I can understand how some of its parts are working.
+
+**Thoughts:**
+Kind of feeling stuck and out of motivation. Is it a bad idea to explore other languages like Python or C#(for Unity) on the side?
+
+**Link to work:**
+https://learn.freecodecamp.org/
