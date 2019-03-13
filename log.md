@@ -503,3 +503,16 @@ Kind of feeling stuck and out of motivation. Is it a bad idea to explore other l
 
 **Link to work:**
 https://learn.freecodecamp.org/
+
+
+
+### Day 40 :[3/12/2019]
+
+**Today's Progress:**
+Working on the React tic tac toe tutorial but still having trouble wrapping my head around it.
+
+**Thoughts:**
+Would like to look at a good React tutorial.
+
+**Link to work:**
+https://reactjs.org/
