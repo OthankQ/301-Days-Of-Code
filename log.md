@@ -516,3 +516,16 @@ Would like to look at a good React tutorial.
 
 **Link to work:**
 https://reactjs.org/
+
+
+
+### Day 41 :[3/13/2019]
+
+**Today's Progress:**
+Started learning React! Learned how to embed one component into another. Parent/child component comcept.
+
+**Thoughts:**
+I've been staying away from front end of things because of the fear of CSS and general layout problems. But after learning basics of JS, it felt like a good step to learn the JS ecosystem and how frameworks work!
+
+**Link to work:**
+https://scrimba.com/p/p7P5Hd/cQ726Sr
