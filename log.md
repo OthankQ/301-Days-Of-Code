@@ -529,3 +529,17 @@ I've been staying away from front end of things because of the fear of CSS and g
 
 **Link to work:**
 https://scrimba.com/p/p7P5Hd/cQ726Sr
+
+
+
+### Day 42 :[3/14/2019]
+
+**Today's Progress:**
+Today I learned how to style React components using CSS and how to embed JavaScript in JSX!
+Used {} to embed JS in JSX!
+
+**Thoughts:**
+Using Scrimba to learn React has been great!
+
+**Link to work:**
+https://scrimba.com/p/p7P5Hd/cQ726Sr
