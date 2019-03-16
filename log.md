@@ -543,3 +543,17 @@ Using Scrimba to learn React has been great!
 
 **Link to work:**
 https://scrimba.com/p/p7P5Hd/cQ726Sr
+
+
+
+### Day 43 :[3/15/2019]
+
+**Today's Progress:**
+I learned how to style React components with style 'object' within a functional component, and how to use JS to manipulate them!
+
+**Thoughts:**
+Can't wait to learn about props!
+
+**Link to work:**
+https://scrimba.com/p/p7P5Hd/cQ726Sr
+
