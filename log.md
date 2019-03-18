@@ -557,3 +557,24 @@ Can't wait to learn about props!
 **Link to work:**
 https://scrimba.com/p/p7P5Hd/cQ726Sr
 
+
+
+### Day 44 :[3/17/2019]
+
+**Today's Progress:**
+### Day 43 :[3/15/2019]
+
+**Today's Progress:**
+I learned how to style React components with style 'object' within a functional component, and how to use JS to manipulate them!
+
+**Thoughts:**
+Kind of confusing. Might need some practice.
+
+**Link to work:**
+https://scrimba.com/p/p7P5Hd/cQ726Sr
+**Thoughts:**
+Can't wait to learn about props!
+
+**Link to work:**
+https://scrimba.com/p/p7P5Hd/cQ726Sr
+
