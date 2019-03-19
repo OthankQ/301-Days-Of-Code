@@ -562,9 +562,6 @@ https://scrimba.com/p/p7P5Hd/cQ726Sr
 ### Day 44 :[3/17/2019]
 
 **Today's Progress:**
-### Day 43 :[3/15/2019]
-
-**Today's Progress:**
 I learned how to style React components with style 'object' within a functional component, and how to use JS to manipulate them!
 
 **Thoughts:**
@@ -572,9 +569,19 @@ Kind of confusing. Might need some practice.
 
 **Link to work:**
 https://scrimba.com/p/p7P5Hd/cQ726Sr
+
+
+
+### Day 45 :[3/18/2019]
+
+**Today's Progress:**
+Today I learned and practiced creating a list of components while passing in properties using .map() method, and rendering those passed in props within different components!
+
 **Thoughts:**
-Can't wait to learn about props!
+Practice makes perfect!
 
 **Link to work:**
 https://scrimba.com/p/p7P5Hd/cQ726Sr
+
+
 
