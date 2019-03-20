@@ -585,3 +585,13 @@ https://scrimba.com/p/p7P5Hd/cQ726Sr
 
 
 
+### Day 46 :[3/19/2019]
+
+**Today's Progress:**
+Started 'Zero to Mastery' Udemy course by @AndreiNeagoie and so far so good! Finished all the HTML section today and planning to continue later today.
+
+**Thoughts:**
+I think the community plays a big part!
+
+**Link to work:**
+https://www.udemy.com/the-complete-web-developer-zero-to-mastery/learn/v4/overview
