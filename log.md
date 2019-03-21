@@ -595,3 +595,17 @@ I think the community plays a big part!
 
 **Link to work:**
 https://www.udemy.com/the-complete-web-developer-zero-to-mastery/learn/v4/overview
+
+
+
+### Day 47 :[3/20/2019]
+
+**Today's Progress:**
+Finished basic CSS section of the Zero to Mastery course! Also spent a lot of time updating my portfolio website. 
+
+**Thoughts:**
+Would like to get to the JavaScript section soon!
+
+**Link to work:**
+https://www.udemy.com/the-complete-web-developer-zero-to-mastery/learn/v4/overview
+https://ryandevelops.me
