@@ -609,3 +609,16 @@ Would like to get to the JavaScript section soon!
 **Link to work:**
 https://www.udemy.com/the-complete-web-developer-zero-to-mastery/learn/v4/overview
 https://ryandevelops.me
+
+
+
+### Day 48 :[3/21/2019]
+
+**Today's Progress:**
+Finished up to lecture 84 on Zero to Mastery course. Working on the CSS layout challenge. 
+
+**Thoughts:**
+Need to get to JS section!
+
+**Link to work:**
+https://www.udemy.com/the-complete-web-developer-zero-to-mastery/learn/v4/overview
