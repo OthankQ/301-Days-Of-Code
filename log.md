@@ -622,3 +622,16 @@ Need to get to JS section!
 
 **Link to work:**
 https://www.udemy.com/the-complete-web-developer-zero-to-mastery/learn/v4/overview
+
+
+
+### Day 49 :[3/22/2019]
+
+**Today's Progress:**
+Finished up to lecture 84 on Zero to Mastery course. Finally started JS section! 
+
+**Thoughts:**
+Brushing up on the basics right now but eager to move onto the advanced JS section really soon!
+
+**Link to work:**
+https://www.udemy.com/the-complete-web-developer-zero-to-mastery/learn/v4/overview
