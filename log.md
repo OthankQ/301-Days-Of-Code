@@ -635,3 +635,16 @@ Brushing up on the basics right now but eager to move onto the advanced JS secti
 
 **Link to work:**
 https://www.udemy.com/the-complete-web-developer-zero-to-mastery/learn/v4/overview
+
+
+
+### Day 50 :[3/23/2019]
+
+**Today's Progress:**
+Finished up to lecture 128 on Zero to Mastery course. Completed the shopping list challenge! 
+
+**Thoughts:**
+Just steps away from starting Advanced JS section. Very Excited!
+
+**Link to work:**
+https://www.udemy.com/the-complete-web-developer-zero-to-mastery/learn/v4/overview
