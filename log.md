@@ -648,3 +648,16 @@ Just steps away from starting Advanced JS section. Very Excited!
 
 **Link to work:**
 https://www.udemy.com/the-complete-web-developer-zero-to-mastery/learn/v4/overview
+
+
+
+### Day 51 :[3/24/2019]
+
+**Today's Progress:**
+Finished up to lecture 137 and finished the gradient background generator challenge.
+
+**Thoughts:**
+The lectures are covering advanced JS now! Interesting stuff!
+
+**Link to work:**
+https://www.udemy.com/the-complete-web-developer-zero-to-mastery/learn/v4/overview
