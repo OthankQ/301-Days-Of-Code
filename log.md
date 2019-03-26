@@ -661,3 +661,16 @@ The lectures are covering advanced JS now! Interesting stuff!
 
 **Link to work:**
 https://www.udemy.com/the-complete-web-developer-zero-to-mastery/learn/v4/overview
+
+
+
+### Day 52 :[3/25/2019]
+
+**Today's Progress:**
+Finished the Advanced JS section of the course.
+
+**Thoughts:**
+Worked on optional coding exercises at the end of the section and was wondering, what's the reasonable amount of time I should put into these coding challenges before I moved on.
+
+**Link to work:**
+https://www.udemy.com/the-complete-web-developer-zero-to-mastery/learn/v4/overview
