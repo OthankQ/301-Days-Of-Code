@@ -674,3 +674,16 @@ Worked on optional coding exercises at the end of the section and was wondering,
 
 **Link to work:**
 https://www.udemy.com/the-complete-web-developer-zero-to-mastery/learn/v4/overview
+
+
+
+### Day 53 :[3/26/2019]
+
+**Today's Progress:**
+Finished up to lecture #180 of Zero to Mastery course! Handled a lot of version control scenarios using Git and @github.
+
+**Thoughts:**
+I think I'm starting to get the hang of it now.
+
+**Link to work:**
+https://www.udemy.com/the-complete-web-developer-zero-to-mastery/learn/v4/overview
