@@ -687,3 +687,17 @@ I think I'm starting to get the hang of it now.
 
 **Link to work:**
 https://www.udemy.com/the-complete-web-developer-zero-to-mastery/learn/v4/overview
+
+
+
+### Day 54 :[3/27/2019]
+
+**Today's Progress:**
+Finished lecture #190 of Zero to Mastery course! Started the React section and got to build components! Also started a website project with a friend of mine and did some good amount of structuring and styling on it!
+
+**Thoughts:**
+I want to implement React into my website project.
+
+**Link to work:**
+https://www.udemy.com/the-complete-web-developer-zero-to-mastery/learn/v4/overview
+https://othankq.github.io/salary-page/
