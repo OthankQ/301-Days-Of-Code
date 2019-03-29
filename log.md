@@ -701,3 +701,16 @@ I want to implement React into my website project.
 **Link to work:**
 https://www.udemy.com/the-complete-web-developer-zero-to-mastery/learn/v4/overview
 https://othankq.github.io/salary-page/
+
+
+
+### Day 55 :[3/28/2019]
+
+**Today's Progress:**
+Just managed to finish lecture #192 today. Props and state is not easy to wrap my head around. I 'kind of' get it, but not too confident.
+
+**Thoughts:**
+Listening to Tyler Mcgninnis React workshop on Youtube.
+
+**Link to work:**
+https://www.udemy.com/the-complete-web-developer-zero-to-mastery/learn/v4/overview
