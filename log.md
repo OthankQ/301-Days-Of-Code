@@ -714,3 +714,16 @@ Listening to Tyler Mcgninnis React workshop on Youtube.
 
 **Link to work:**
 https://www.udemy.com/the-complete-web-developer-zero-to-mastery/learn/v4/overview
+
+
+
+### Day 56 :[3/29/2019]
+
+**Today's Progress:**
+Listening and coding along to @tylermcginnis React.js Bootcamp lecture on Youtube.
+
+**Thoughts:**
+Really love how he breaks down React into smallest as possible concept to explain how the framework works.
+
+**Link to work:**
+https://www.youtube.com/watch?v=8GXXGJRDMdQ
