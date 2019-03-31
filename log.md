@@ -727,3 +727,16 @@ Really love how he breaks down React into smallest as possible concept to explai
 
 **Link to work:**
 https://www.youtube.com/watch?v=8GXXGJRDMdQ
+
+
+
+### Day 57 :[3/30/2019]
+
+**Today's Progress:**
+Still digging into React with @tylermcginnis courses.
+
+**Thoughts:**
+Watched his bootcamp video on youtube and decided to subscribe to his other courses. I can gradually see myself getting used to React syntax.
+
+**Link to work:**
+https://learn.tylermcginnis.com/courses/50507/lectures/762538
