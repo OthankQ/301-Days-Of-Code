@@ -739,4 +739,17 @@ Still digging into React with @tylermcginnis courses.
 Watched his bootcamp video on youtube and decided to subscribe to his other courses. I can gradually see myself getting used to React syntax.
 
 **Link to work:**
-https://learn.tylermcginnis.com/courses/50507/lectures/762538
+https://learn.tylermcginnis.com/courses/
+
+
+
+### Day 58 :[3/31/2019]
+
+**Today's Progress:**
+Learned how Webpack and Babel works their magic behind the scenes when using React and tried setting them up manually. Also learned how to use .map() and .filter() to pass in array data and create list elements depending on data length.
+
+**Thoughts:**
+I think I have a better understanding of how data gets passed in as props between a parent and a child component.
+
+**Link to work:**
+https://learn.tylermcginnis.com/courses/
