@@ -753,3 +753,17 @@ I think I have a better understanding of how data gets passed in as props betwee
 
 **Link to work:**
 https://learn.tylermcginnis.com/courses/
+
+
+
+### Day 59 :[4/1/2019]
+
+**Today's Progress:**
+Learned about handling 'this' in a React component with .bind method. Also learned how to set and update the state of a component.
+
+**Thoughts:**
+The more you know about React, the more it gets interesting!
+
+**Link to work:**
+https://learn.tylermcginnis.com/courses/
+
