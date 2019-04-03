@@ -767,3 +767,16 @@ The more you know about React, the more it gets interesting!
 **Link to work:**
 https://learn.tylermcginnis.com/courses/
 
+
+
+### Day 60 :[4/2/2019]
+
+**Today's Progress:**
+Learned about different types of components: functional, stateless functional, and stateless components. I also read upon different life cycle events that can be useful when making Ajax requests!
+
+**Thoughts:**
+Making AJAX requests looks a lot of fun and something that would be very useful for me when building projects.
+
+**Link to work:**
+https://learn.tylermcginnis.com/courses/
+
