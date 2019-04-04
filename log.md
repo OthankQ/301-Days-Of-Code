@@ -780,3 +780,15 @@ Making AJAX requests looks a lot of fun and something that would be very useful 
 **Link to work:**
 https://learn.tylermcginnis.com/courses/
 
+
+
+### Day 61 :[4/3/2019]
+
+**Today's Progress:**
+Learned about sending Ajax request from a React component and receiving data from an API
+
+**Thoughts:**
+Code got messed up while reinstalling Windows. Will try again to make it work.
+
+**Link to work:**
+https://learn.tylermcginnis.com/courses/
