@@ -792,3 +792,16 @@ Code got messed up while reinstalling Windows. Will try again to make it work.
 
 **Link to work:**
 https://learn.tylermcginnis.com/courses/
+
+
+
+### Day 62 :[4/4/2019]
+
+**Today's Progress:**
+Learned about React router and implemented router in tutorial project.
+
+**Thoughts:**
+What's a good way to practice React for beginners without the tutorial holding your hand all the way?
+
+**Link to work:**
+https://learn.tylermcginnis.com/courses/
