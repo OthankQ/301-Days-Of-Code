@@ -805,3 +805,16 @@ What's a good way to practice React for beginners without the tutorial holding y
 
 **Link to work:**
 https://learn.tylermcginnis.com/courses/
+
+
+
+### Day 63 :[4/5/2019]
+
+**Today's Progress:**
+Spent a lot of time trying to make a website retrieve data from Python a server using AJAX. Also learned about REST API and CRUD.
+
+**Thoughts:**
+I want to build my own Node.js server with a REST API
+
+**Link to work:**
+https://www.udemy.com/react-redux/learn/v4/content
