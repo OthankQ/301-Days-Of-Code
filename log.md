@@ -818,3 +818,16 @@ I want to build my own Node.js server with a REST API
 
 **Link to work:**
 https://www.udemy.com/react-redux/learn/v4/content
+
+
+
+### Day 63 :[4/5/2019]
+
+**Today's Progress:**
+Learned how to get access to nested JSX tag with {props.children}. Practiced knowing when to refactor one React component into multiple components. Got an understanding of when to use one type of component over the other.
+
+**Thoughts:**
+Why put geolocation function inside the render method of a class based React component?
+
+**Link to work:**
+https://www.udemy.com/react-redux/learn/v4/content
