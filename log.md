@@ -831,3 +831,16 @@ Why put geolocation function inside the render method of a class based React com
 
 **Link to work:**
 https://www.udemy.com/react-redux/learn/v4/content
+
+
+
+### Day 64 :[4/6/2019]
+
+**Today's Progress:**
+Learned to use state in a class based React component and passing them as props to have them rendered differently depending on the state. Also Learned about three main component lifecycle methods.
+
+**Thoughts:**
+I would like to learn more about lifecycle methods as soon as possible!
+
+**Link to work:**
+https://www.udemy.com/react-redux/learn/v4/content
