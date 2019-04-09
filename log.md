@@ -844,3 +844,16 @@ I would like to learn more about lifecycle methods as soon as possible!
 
 **Link to work:**
 https://www.udemy.com/react-redux/learn/v4/content
+
+
+
+### Day 65 :[4/7/2019]
+
+**Today's Progress:**
+Finished section 6 of Stephen Grider's React tutorial.
+
+**Thoughts:**
+I feel like I have a better understanding of state and lifecycle methods than before.
+
+**Link to work:**
+https://www.udemy.com/react-redux/learn/v4/content
