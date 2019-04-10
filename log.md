@@ -821,7 +821,7 @@ https://www.udemy.com/react-redux/learn/v4/content
 
 
 
-### Day 63 :[4/5/2019]
+### Day 64 :[4/6/2019]
 
 **Today's Progress:**
 Learned how to get access to nested JSX tag with {props.children}. Practiced knowing when to refactor one React component into multiple components. Got an understanding of when to use one type of component over the other.
@@ -834,7 +834,7 @@ https://www.udemy.com/react-redux/learn/v4/content
 
 
 
-### Day 64 :[4/6/2019]
+### Day 65 :[4/7/2019]
 
 **Today's Progress:**
 Learned to use state in a class based React component and passing them as props to have them rendered differently depending on the state. Also Learned about three main component lifecycle methods.
@@ -847,13 +847,27 @@ https://www.udemy.com/react-redux/learn/v4/content
 
 
 
-### Day 65 :[4/7/2019]
+### Day 66 :[4/8/2019]
 
 **Today's Progress:**
 Finished section 6 of Stephen Grider's React tutorial.
 
 **Thoughts:**
 I feel like I have a better understanding of state and lifecycle methods than before.
+
+**Link to work:**
+https://www.udemy.com/react-redux/learn/v4/content
+
+
+
+
+### Day 67 :[4/9/2019]
+
+**Today's Progress:**
+Learned about creating event listeners in a React component and how to avoid errors related to the context of the 'this' keyword.
+
+**Thoughts:**
+Might need to take it slow and rewatch the part with the 'this' keyword.
 
 **Link to work:**
 https://www.udemy.com/react-redux/learn/v4/content
