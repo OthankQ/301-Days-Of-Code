@@ -871,3 +871,16 @@ Might need to take it slow and rewatch the part with the 'this' keyword.
 
 **Link to work:**
 https://www.udemy.com/react-redux/learn/v4/content
+
+
+
+### Day 68 :[4/10/2019]
+
+**Today's Progress:**
+Working on an app that sends an API request to Unsplash using Axios, receives data, then lays out the images received using React. 
+
+**Thoughts:**
+Simple, but it is fun to work with an API requests.
+
+**Link to work:**
+https://www.udemy.com/react-redux/learn/v4/content
