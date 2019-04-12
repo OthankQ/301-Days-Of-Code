@@ -884,3 +884,16 @@ Simple, but it is fun to work with an API requests.
 
 **Link to work:**
 https://www.udemy.com/react-redux/learn/v4/content
+
+
+
+### Day 69 :[4/11/2019]
+
+**Today's Progress**
+Finished the image fetching website. Learned a lot about form onChange, onSubmit callbacks, Axios API requests and controlled callbacks.
+
+**Thoughts:**
+On my way to build a similar video request website using Youtube API.
+
+**Link to work:**
+https://www.udemy.com/react-redux/learn/v4/content
