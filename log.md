@@ -1,4 +1,5 @@
 # #301DaysOfCode - Log
+
 The daily log of my **#301DaysOfCode** challenge.
 
 ## Log
@@ -14,8 +15,6 @@ Though I knew enough to start coding stuff. Looks like I really need to work on 
 **Link to work:**
 https://github.com/OthankQ/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md
 
-
-
 ### Day 2: [2/2/2019]
 
 **Today's Progress:**
@@ -27,8 +26,6 @@ Couldn't quite get the code to run yet. Will have to work on it some more. But I
 **Link to work:**
 https://github.com/OthankQ/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md
 
-
-
 ### Day 3: [2/3/2019]
 
 **Today's Progress:**
@@ -39,8 +36,6 @@ Although it wasn't built from scratch, it was a good html and css practice.
 
 **Link to work:**
 Private Github repository.
-
-
 
 ### Day 4: [2/4/2019]
 
@@ -54,8 +49,6 @@ Some people say PHP is out of date. Is it worth checking it out currently? Also,
 https://www.learn-php.org/ - PHP tutorial
 https://github.com/OthankQ/You-Dont-Know-JS - YDKJS
 
-
-
 ### Day 5: [2/5/2019]
 
 **Today's Progress:**
@@ -66,8 +59,6 @@ I feel like I still have trouble with CSS layouts in general and coming up with 
 
 **Link to work:**
 codepen.io
-
-
 
 ### Day 6: [2/6/2019]
 
@@ -80,8 +71,6 @@ It was first time ever contributing to a project. I had to look up how to send a
 **Link to work:**
 https://github.com/TheOdinProject/curriculum
 
-
-
 ### Day 7: [2/7/2019]
 
 **Today's Progress:**
@@ -92,8 +81,6 @@ Handling arrays. Not too difficult, but I am confused of the reduce() function.
 
 **Link to work:**
 https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/remove-items-using-splice/
-
-
 
 ### Day 8 :[2/8/2019]
 
@@ -106,8 +93,6 @@ Want to start project odin soon...
 **Link to work:**
 https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/copy-array-items-using-slice
 
-
-
 ### Day 9 :[2/9/2019]
 
 **Today's Progress:**
@@ -118,8 +103,6 @@ Want to start project odin soon...
 
 **Link to work:**
 https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/combine-arrays-with-the-spread-operator
-
-
 
 ### Day 10 :[2/10/2019]
 
@@ -132,8 +115,6 @@ Fundamentals are important.
 **Link to work:**
 https://www.lynda.com/Simon-Allardice/21-1.html
 
-
-
 ### Day 11 :[2/11/2019]
 
 **Today's Progress:**
@@ -144,8 +125,6 @@ Read upon databases. Very interesting. Wanting to do some data manipulation.
 
 **Link to work:**
 https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/debugging/catch-off-by-one-errors-when-using-indexing
-
-
 
 ### Day 12 :[2/12/2019]
 
@@ -158,8 +137,6 @@ Never thought of looking into database manipulation, but looks a lot of fun!
 **Link to work:**
 https://www.codecademy.com/courses/learn-sql/lessons/manipulation/exercises/insert?action=resume_content_item
 
-
-
 ### Day 13 :[2/13/2019]
 
 **Today's Progress:**
@@ -169,8 +146,6 @@ I have no clue why it's not working, yet.
 
 **Link to work:**
 https://medium.com/crowdbotics/how-to-create-your-very-own-facebook-messenger-bot-with-dialogflow-and-node-js-in-just-one-day-f5f2f5792be5
-
-
 
 ### Day 14 :[2/14/2019]
 
@@ -182,19 +157,15 @@ I'm thinking I want to hook up a sports article webpage API to the bot so it can
 **Link to work:**
 https://www.facebook.com/Bot-Tutorial-250905502499752/?modal=admin_todo_tour
 
-
-
 ### Day 15 :[2/15/2019]
 
 **Today's Progress:**
-Still working on my Facebook messenger bot. But meanwhile, also working on the free code camp JS curriculum. Trying to solve 'Iterating through all array items using for loops.' 
+Still working on my Facebook messenger bot. But meanwhile, also working on the free code camp JS curriculum. Trying to solve 'Iterating through all array items using for loops.'
 **Thoughts:**
 Asked one of my friends why the code isn't working. He has a CS background but couldn't figure it out. I don't feel so bad now. Will tackle it again as soon as possible!
 
 **Link to work:**
 https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/iterate-through-all-an-arrays-items-using-for-loops
-
-
 
 ### Day 16 :[2/16/2019]
 
@@ -205,8 +176,6 @@ Trying to figure out the next challenge.
 
 **Link to work:**
 https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/-iterate-through-the-keys-of-an-object-with-a-for---in-statement
-
-
 
 ### Day 17 :[2/17/2019]
 
@@ -219,8 +188,6 @@ These challenges are taking longer than I thought but feels great when I finally
 **Link to work:**
 https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/return-largest-numbers-in-arrays
 
-
-
 ### Day 18 :[2/18/2019]
 
 **Today's Progress:**
@@ -231,8 +198,6 @@ There are still things out there I need to learn in depth!
 
 **Link to work:**
 https://www.udemy.com/understand-javascript/learn/v4/content
-
-
 
 ### Day 19 :[2/19/2019]
 
@@ -245,8 +210,6 @@ Materials look different now that I have dabbled some in Javascript.
 **Link to work:**
 https://www.udemy.com/understand-javascript/learn/v4/content
 
-
-
 ### Day 20 :[2/20/2019]
 
 **Today's Progress:**
@@ -257,8 +220,6 @@ I love the 'Oh that's why it worked that way!' moments during the lectures.
 
 **Link to work:**
 https://www.udemy.com/understand-javascript/learn/v4/content
-
-
 
 ### Day 21 :[2/21/2019]
 
@@ -271,8 +232,6 @@ It was about time I had a decent looking portfolio website.
 **Link to work:**
 https://www.udemy.com/understand-javascript/learn/v4/content
 
-
-
 ### Day 22 :[2/22/2019]
 
 **Today's Progress:**
@@ -283,8 +242,6 @@ It was really fun to see why some of the frameworks were wrote in specific way! 
 
 **Link to work:**
 https://www.udemy.com/understand-javascript/learn/v4/content
-
-
 
 ### Day 23 :[2/23/2019]
 
@@ -297,12 +254,10 @@ Can't wait to finish my portfolio site!
 **Link to work:**
 https://www.udemy.com/understand-javascript/learn/v4/content
 
-
-
 ### Day 24 :[2/24/2019]
 
 **Today's Progress:**
-Finished my portfolio site and deployed it using Github Pages! 
+Finished my portfolio site and deployed it using Github Pages!
 
 **Thoughts:**
 The contents still needs a lot of work but it felt great to have a site deployed under my own domain name!
@@ -310,20 +265,16 @@ The contents still needs a lot of work but it felt great to have a site deployed
 **Link to work:**
 https://ryandevelops.me
 
-
-
 ### Day 25 :[2/25/2019]
 
 **Today's Progress:**
-Started working on a book list web app where you can just log the name of books, authors and ISBN. 
+Started working on a book list web app where you can just log the name of books, authors and ISBN.
 
 **Thoughts:**
 This is a tutorial project and I am hoping to learn about classes, event listeners and arrow functions! Also learned about object literals.
 
 **Link to work:**
 https://www.udemy.com/understand-javascript/learn/v4/content
-
-
 
 ### Day 26 :[2/26/2019]
 
@@ -336,8 +287,6 @@ Learned that there are so many things I actually don't know... yet! Learned that
 **Link to work:**
 https://www.udemy.com/understand-javascript/learn/v4/content
 
-
-
 ### Day 27 :[2/27/2019]
 
 **Today's Progress:**
@@ -348,8 +297,6 @@ More and more I learn about Javascript and programming in general, the more fasc
 
 **Link to work:**
 https://www.udemy.com/understand-javascript/learn/v4/content
-
-
 
 ### Day 28 :[2/28/2019]
 
@@ -362,8 +309,6 @@ It's so cool to being able to open up the V8 engine to see what is happening und
 **Link to work:**
 https://www.udemy.com/understand-javascript/learn/v4/content
 
-
-
 ### Day 29 :[3/1/2019]
 
 **Today's Progress:**
@@ -374,8 +319,6 @@ I really want to start building something with Node now!!!
 
 **Link to work:**
 https://www.udemy.com/understand-javascript/learn/v4/content
-
-
 
 ### Day 30 :[3/2/2019]
 
@@ -388,8 +331,6 @@ I want to learn more about functional programming!
 **Link to work:**
 https://www.udemy.com/understand-javascript/learn/v4/content
 
-
-
 ### Day 31 :[3/3/2019]
 
 **Today's Progress:**
@@ -400,8 +341,6 @@ This is getting exciting!
 
 **Link to work:**
 https://www.udemy.com/understand-javascript/learn/v4/content
-
-
 
 ### Day 32 :[3/4/2019]
 
@@ -414,8 +353,6 @@ The concept is not yet easy to grasp. I hope I can see some good examples!
 **Link to work:**
 https://www.udemy.com/understand-javascript/learn/v4/content
 
-
-
 ### Day 33 :[3/5/2019]
 
 **Today's Progress:**
@@ -427,19 +364,16 @@ Totally forgot to tweet my progress yesterday...
 **Link to work:**
 https://learn.freecodecamp.org/
 
-
 ### Day 34 :[3/6/2019]
 
 **Today's Progress:**
-Read this great article on @Medium and figured what I needed was the ability to breakdown a huge problem into smaller chunks. 
+Read this great article on @Medium and figured what I needed was the ability to breakdown a huge problem into smaller chunks.
 
 **Thoughts:**
 I actually had fun solving challenges on Coderbyte and FCC today!
 
 **Link to work:**
 https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2
-
-
 
 ### Day 35 :[3/7/2019]
 
@@ -452,8 +386,6 @@ Think I should have done this sooner.
 **Link to work:**
 https://www.lynda.com/Programming-Foundations-tutorials/Event-driven-programming/83603/90476-4.html?srchtrk=index%3a3%0alinktypeid%3a2%0aq%3aallardice%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2
 
-
-
 ### Day 36 :[3/8/2019]
 
 **Today's Progress:**
@@ -465,20 +397,16 @@ Feels good to contribute! In what kind of situations do people use function cons
 **Link to work:**
 https://www.udemy.com/understand-javascript/learn/v4/content
 
-
-
 ### Day 37 :[3/9/2019]
 
 **Today's Progress:**
-I learned about ',prototype' today. Still confused. I might have to go over it again. I am attempting to solve 'Basic Algorithm Scripting: Where do I Belong' challenge on FCC! 
+I learned about ',prototype' today. Still confused. I might have to go over it again. I am attempting to solve 'Basic Algorithm Scripting: Where do I Belong' challenge on FCC!
 
 **Thoughts:**
 I was surprised how .filter could make things so much easier.
 
 **Link to work:**
 https://www.udemy.com/understand-javascript/learn/v4/content
-
-
 
 ### Day 38 :[3/10/2019]
 
@@ -491,8 +419,6 @@ Basic things but was really helpful for learning general concepts of programming
 **Link to work:**
 https://learn.freecodecamp.org/
 
-
-
 ### Day 39 :[3/11/2019]
 
 **Today's Progress:**
@@ -503,8 +429,6 @@ Kind of feeling stuck and out of motivation. Is it a bad idea to explore other l
 
 **Link to work:**
 https://learn.freecodecamp.org/
-
-
 
 ### Day 40 :[3/12/2019]
 
@@ -517,8 +441,6 @@ Would like to look at a good React tutorial.
 **Link to work:**
 https://reactjs.org/
 
-
-
 ### Day 41 :[3/13/2019]
 
 **Today's Progress:**
@@ -529,8 +451,6 @@ I've been staying away from front end of things because of the fear of CSS and g
 
 **Link to work:**
 https://scrimba.com/p/p7P5Hd/cQ726Sr
-
-
 
 ### Day 42 :[3/14/2019]
 
@@ -544,8 +464,6 @@ Using Scrimba to learn React has been great!
 **Link to work:**
 https://scrimba.com/p/p7P5Hd/cQ726Sr
 
-
-
 ### Day 43 :[3/15/2019]
 
 **Today's Progress:**
@@ -556,8 +474,6 @@ Can't wait to learn about props!
 
 **Link to work:**
 https://scrimba.com/p/p7P5Hd/cQ726Sr
-
-
 
 ### Day 44 :[3/17/2019]
 
@@ -570,8 +486,6 @@ Kind of confusing. Might need some practice.
 **Link to work:**
 https://scrimba.com/p/p7P5Hd/cQ726Sr
 
-
-
 ### Day 45 :[3/18/2019]
 
 **Today's Progress:**
@@ -582,8 +496,6 @@ Practice makes perfect!
 
 **Link to work:**
 https://scrimba.com/p/p7P5Hd/cQ726Sr
-
-
 
 ### Day 46 :[3/19/2019]
 
@@ -596,12 +508,10 @@ I think the community plays a big part!
 **Link to work:**
 https://www.udemy.com/the-complete-web-developer-zero-to-mastery/learn/v4/overview
 
-
-
 ### Day 47 :[3/20/2019]
 
 **Today's Progress:**
-Finished basic CSS section of the Zero to Mastery course! Also spent a lot of time updating my portfolio website. 
+Finished basic CSS section of the Zero to Mastery course! Also spent a lot of time updating my portfolio website.
 
 **Thoughts:**
 Would like to get to the JavaScript section soon!
@@ -610,12 +520,10 @@ Would like to get to the JavaScript section soon!
 https://www.udemy.com/the-complete-web-developer-zero-to-mastery/learn/v4/overview
 https://ryandevelops.me
 
-
-
 ### Day 48 :[3/21/2019]
 
 **Today's Progress:**
-Finished up to lecture 84 on Zero to Mastery course. Working on the CSS layout challenge. 
+Finished up to lecture 84 on Zero to Mastery course. Working on the CSS layout challenge.
 
 **Thoughts:**
 Need to get to JS section!
@@ -623,12 +531,10 @@ Need to get to JS section!
 **Link to work:**
 https://www.udemy.com/the-complete-web-developer-zero-to-mastery/learn/v4/overview
 
-
-
 ### Day 49 :[3/22/2019]
 
 **Today's Progress:**
-Finished up to lecture 84 on Zero to Mastery course. Finally started JS section! 
+Finished up to lecture 84 on Zero to Mastery course. Finally started JS section!
 
 **Thoughts:**
 Brushing up on the basics right now but eager to move onto the advanced JS section really soon!
@@ -636,20 +542,16 @@ Brushing up on the basics right now but eager to move onto the advanced JS secti
 **Link to work:**
 https://www.udemy.com/the-complete-web-developer-zero-to-mastery/learn/v4/overview
 
-
-
 ### Day 50 :[3/23/2019]
 
 **Today's Progress:**
-Finished up to lecture 128 on Zero to Mastery course. Completed the shopping list challenge! 
+Finished up to lecture 128 on Zero to Mastery course. Completed the shopping list challenge!
 
 **Thoughts:**
 Just steps away from starting Advanced JS section. Very Excited!
 
 **Link to work:**
 https://www.udemy.com/the-complete-web-developer-zero-to-mastery/learn/v4/overview
-
-
 
 ### Day 51 :[3/24/2019]
 
@@ -662,8 +564,6 @@ The lectures are covering advanced JS now! Interesting stuff!
 **Link to work:**
 https://www.udemy.com/the-complete-web-developer-zero-to-mastery/learn/v4/overview
 
-
-
 ### Day 52 :[3/25/2019]
 
 **Today's Progress:**
@@ -675,8 +575,6 @@ Worked on optional coding exercises at the end of the section and was wondering,
 **Link to work:**
 https://www.udemy.com/the-complete-web-developer-zero-to-mastery/learn/v4/overview
 
-
-
 ### Day 53 :[3/26/2019]
 
 **Today's Progress:**
@@ -687,8 +585,6 @@ I think I'm starting to get the hang of it now.
 
 **Link to work:**
 https://www.udemy.com/the-complete-web-developer-zero-to-mastery/learn/v4/overview
-
-
 
 ### Day 54 :[3/27/2019]
 
@@ -702,8 +598,6 @@ I want to implement React into my website project.
 https://www.udemy.com/the-complete-web-developer-zero-to-mastery/learn/v4/overview
 https://othankq.github.io/salary-page/
 
-
-
 ### Day 55 :[3/28/2019]
 
 **Today's Progress:**
@@ -714,8 +608,6 @@ Listening to Tyler Mcgninnis React workshop on Youtube.
 
 **Link to work:**
 https://www.udemy.com/the-complete-web-developer-zero-to-mastery/learn/v4/overview
-
-
 
 ### Day 56 :[3/29/2019]
 
@@ -728,8 +620,6 @@ Really love how he breaks down React into smallest as possible concept to explai
 **Link to work:**
 https://www.youtube.com/watch?v=8GXXGJRDMdQ
 
-
-
 ### Day 57 :[3/30/2019]
 
 **Today's Progress:**
@@ -740,8 +630,6 @@ Watched his bootcamp video on youtube and decided to subscribe to his other cour
 
 **Link to work:**
 https://learn.tylermcginnis.com/courses/
-
-
 
 ### Day 58 :[3/31/2019]
 
@@ -754,8 +642,6 @@ I think I have a better understanding of how data gets passed in as props betwee
 **Link to work:**
 https://learn.tylermcginnis.com/courses/
 
-
-
 ### Day 59 :[4/1/2019]
 
 **Today's Progress:**
@@ -766,8 +652,6 @@ The more you know about React, the more it gets interesting!
 
 **Link to work:**
 https://learn.tylermcginnis.com/courses/
-
-
 
 ### Day 60 :[4/2/2019]
 
@@ -780,8 +664,6 @@ Making AJAX requests looks a lot of fun and something that would be very useful 
 **Link to work:**
 https://learn.tylermcginnis.com/courses/
 
-
-
 ### Day 61 :[4/3/2019]
 
 **Today's Progress:**
@@ -792,8 +674,6 @@ Code got messed up while reinstalling Windows. Will try again to make it work.
 
 **Link to work:**
 https://learn.tylermcginnis.com/courses/
-
-
 
 ### Day 62 :[4/4/2019]
 
@@ -806,8 +686,6 @@ What's a good way to practice React for beginners without the tutorial holding y
 **Link to work:**
 https://learn.tylermcginnis.com/courses/
 
-
-
 ### Day 63 :[4/5/2019]
 
 **Today's Progress:**
@@ -818,8 +696,6 @@ I want to build my own Node.js server with a REST API
 
 **Link to work:**
 https://www.udemy.com/react-redux/learn/v4/content
-
-
 
 ### Day 64 :[4/6/2019]
 
@@ -832,8 +708,6 @@ Why put geolocation function inside the render method of a class based React com
 **Link to work:**
 https://www.udemy.com/react-redux/learn/v4/content
 
-
-
 ### Day 65 :[4/7/2019]
 
 **Today's Progress:**
@@ -844,8 +718,6 @@ I would like to learn more about lifecycle methods as soon as possible!
 
 **Link to work:**
 https://www.udemy.com/react-redux/learn/v4/content
-
-
 
 ### Day 66 :[4/8/2019]
 
@@ -858,9 +730,6 @@ I feel like I have a better understanding of state and lifecycle methods than be
 **Link to work:**
 https://www.udemy.com/react-redux/learn/v4/content
 
-
-
-
 ### Day 67 :[4/9/2019]
 
 **Today's Progress:**
@@ -872,20 +741,16 @@ Might need to take it slow and rewatch the part with the 'this' keyword.
 **Link to work:**
 https://www.udemy.com/react-redux/learn/v4/content
 
-
-
 ### Day 68 :[4/10/2019]
 
 **Today's Progress:**
-Working on an app that sends an API request to Unsplash using Axios, receives data, then lays out the images received using React. 
+Working on an app that sends an API request to Unsplash using Axios, receives data, then lays out the images received using React.
 
 **Thoughts:**
 Simple, but it is fun to work with an API requests.
 
 **Link to work:**
 https://www.udemy.com/react-redux/learn/v4/content
-
-
 
 ### Day 69 :[4/11/2019]
 
@@ -894,6 +759,17 @@ Finished the image fetching website. Learned a lot about form onChange, onSubmit
 
 **Thoughts:**
 On my way to build a similar video request website using Youtube API.
+
+**Link to work:**
+https://www.udemy.com/react-redux/learn/v4/content
+
+### Day 70 :[4/12/2019]
+
+**Today's Progress**
+Still working on the video browsing website. Had it render a list of videos by sending an API request to Youtube.
+
+**Thoughts:**
+Getting a good grasp on getting a child component to talk to a parent component by passing down a callback function as props.
 
 **Link to work:**
 https://www.udemy.com/react-redux/learn/v4/content
