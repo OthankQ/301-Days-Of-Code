@@ -773,3 +773,14 @@ Getting a good grasp on getting a child component to talk to a parent component 
 
 **Link to work:**
 https://www.udemy.com/react-redux/learn/v4/content
+
+### Day 71 :[4/13/2019]
+
+**Today's Progress**
+Started the Redux part of the lecture, and so far so good! Built a basic React web app with state that can be passed down as props.
+
+**Thoughts:**
+Planning to add in API request functionality using Axios.
+
+**Link to work:**
+https://www.udemy.com/react-redux/learn/v4/content
