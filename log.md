@@ -784,3 +784,14 @@ Planning to add in API request functionality using Axios.
 
 **Link to work:**
 https://www.udemy.com/react-redux/learn/v4/content
+
+### Day 72 :[4/14/2019]
+
+**Today's Progress**
+Built a simple todo app using React. Now learning how to import Redux into a React project and make them work together with a simple song-list app.
+
+**Thoughts:**
+I want to build more apps with React for practice.
+
+**Link to work:**
+https://www.udemy.com/react-redux/learn/v4/content
