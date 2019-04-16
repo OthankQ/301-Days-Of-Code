@@ -795,3 +795,14 @@ I want to build more apps with React for practice.
 
 **Link to work:**
 https://www.udemy.com/react-redux/learn/v4/content
+
+### Day 73 :[4/15/2019]
+
+**Today's Progress**
+Built a React app with a list of user card and search function that updates as you type in a search term.
+
+**Thoughts:**
+This was a part of a tutorial I had stopped to study more React. Needed few hints to make this work but proud of what I learned.
+
+**Link to work:**
+https://www.udemy.com/react-redux/learn/v4/content
