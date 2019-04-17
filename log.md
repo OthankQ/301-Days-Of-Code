@@ -807,7 +807,7 @@ This was a part of a tutorial I had stopped to study more React. Needed few hint
 **Link to work:**
 https://www.udemy.com/react-redux/learn/v4/content
 
-### Day 73 :[4/15/2019]
+### Day 74 :[4/16/2019]
 
 **Today's Progress**
 Back to learning Redux. Following through the Redux part of Stephen Grider's tutorial to get an idea of the whole picture of how React and Redux work together. Added connect and provider component to the project.
