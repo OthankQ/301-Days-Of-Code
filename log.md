@@ -817,3 +817,14 @@ Considered whether to continue with Andrei's course. However I think it is bette
 
 **Link to work:**
 https://www.udemy.com/react-redux/learn/v4/content
+
+### Day 75 :[4/17/2019]
+
+**Today's Progress**
+Following the Redux part in a tutorial and built an app that displays details about songs when clicked from a list of songs.
+
+**Thoughts:**
+Will continue on to the part that uses Async actions with Redux Thunk
+
+**Link to work:**
+https://www.udemy.com/react-redux/learn/v4/content
