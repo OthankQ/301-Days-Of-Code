@@ -828,3 +828,14 @@ Will continue on to the part that uses Async actions with Redux Thunk
 
 **Link to work:**
 https://www.udemy.com/react-redux/learn/v4/content
+
+### Day 76 :[4/18/2109]
+
+**Today's Progress**
+Learned about Redux-Thunk and how it can be used to make API calls within Redux action creators with async/await.
+
+**Thoughts:**
+Might have to go over it again to have a good grasp on the concept. On a side note, I'm considering learning Typescript.
+
+**Link to work:**
+https://www.udemy.com/react-redux/learn/v4/content
