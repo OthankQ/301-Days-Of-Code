@@ -839,3 +839,14 @@ Might have to go over it again to have a good grasp on the concept. On a side no
 
 **Link to work:**
 https://www.udemy.com/react-redux/learn/v4/content
+
+### Day 77 :[4/19/2109]
+
+**Today's Progress**
+Got stuck hard trying to learn Redux-Thunk. Played around with Node modules like chalk and yargs. Learned a bit about filesystem.
+
+**Thoughts:**
+Started studying Node as a way to cool my head, and also because I thought I was going to learn it later anyways.
+
+**Link to work:**
+https://www.udemy.com/the-complete-nodejs-developer-course-2/learn/v4/overview
