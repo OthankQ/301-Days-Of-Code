@@ -850,3 +850,14 @@ Started studying Node as a way to cool my head, and also because I thought I was
 
 **Link to work:**
 https://www.udemy.com/the-complete-nodejs-developer-course-2/learn/v4/overview
+
+### Day 78 :[4/20/2109]
+
+**Today's Progress**
+Went back to learning basics of Redux to get a good grasp before I went back to learning Redux-Thunk. Remade the music details app. Node wise, I'm currently putting together a CLI notes taking app. Implemented adding and delete functions.
+
+**Thoughts:**
+I think it's good to learn React-Redux and Node.js at the same time. Makes things fresh when I'm worn out on either one so that way I can keep coding!
+
+**Link to work:**
+https://www.udemy.com/the-complete-nodejs-developer-course-2/learn/v4/overview
