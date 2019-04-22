@@ -861,3 +861,14 @@ I think it's good to learn React-Redux and Node.js at the same time. Makes thing
 
 **Link to work:**
 https://www.udemy.com/the-complete-nodejs-developer-course-2/learn/v4/overview
+
+### Day 79 :[4/21/2109]
+
+**Today's Progress**
+Now I feel like I have a better grasp on the concept of Redux and Redux-Thunk. Completed the Node CLI notes taking app.
+
+**Thoughts:**
+Will need a lot of practice using Redux and Redux-Thunk.
+
+**Link to work:**
+https://www.udemy.com/the-complete-nodejs-developer-course-2/learn/v4/overview
