@@ -872,3 +872,14 @@ Will need a lot of practice using Redux and Redux-Thunk.
 
 **Link to work:**
 https://www.udemy.com/the-complete-nodejs-developer-course-2/learn/v4/overview
+
+### Day 80 :[4/22/2109]
+
+**Today's Progress**
+Studied Redux back from analogy by reading a book: Understanding Redux by @OhansEmmanuel It's a great read. Also refactored a website template and made it into a personal website.
+
+**Thoughts:**
+Having trouble registering custom domain name on Heroku.
+
+**Link to work:**
+https://medium.freecodecamp.org/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6
