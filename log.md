@@ -883,3 +883,14 @@ Having trouble registering custom domain name on Heroku.
 
 **Link to work:**
 https://medium.freecodecamp.org/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6
+
+### Day 81 :[4/23/2109]
+
+**Today's Progress**
+Still going through the Redux book. Trying to understand reducers and action creators. Also worked on the weather app using node, fetching api requests using request module.
+
+**Thoughts:**
+Redux is still kind of confusing to grasp. I'll push through until I get it.
+
+**Link to work:**
+https://medium.freecodecamp.org/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6
