@@ -894,3 +894,14 @@ Redux is still kind of confusing to grasp. I'll push through until I get it.
 
 **Link to work:**
 https://medium.freecodecamp.org/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6
+
+### Day 82 :[4/24/2109]
+
+**Today's Progress**
+Solved first two challenges in 'Understanding Redux'. It was challenging but I got a much better understanding while struggling to solve than watching a tutorial.
+
+**Thoughts:**
+I'm now interested in finding good book on React.
+
+**Link to work:**
+https://medium.freecodecamp.org/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6
