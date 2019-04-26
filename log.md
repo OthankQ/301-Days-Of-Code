@@ -905,3 +905,14 @@ I'm now interested in finding good book on React.
 
 **Link to work:**
 https://medium.freecodecamp.org/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6
+
+### Day 83 :[4/25/2109]
+
+**Today's Progress**
+Learned and solved exercises on using callback functions to handle async process such as sending an API request within a function.
+
+**Thoughts:**
+Should I learn Golang on the side?
+
+**Link to work:**
+https://www.udemy.com/the-complete-nodejs-developer-course-2/
