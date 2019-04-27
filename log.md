@@ -916,3 +916,14 @@ Should I learn Golang on the side?
 
 **Link to work:**
 https://www.udemy.com/the-complete-nodejs-developer-course-2/
+
+### Day 84 :[4/26/2109]
+
+**Today's Progress**
+Refactored the Node weather app with reusable API request function using callback functions. Started learning the basics of PHP.
+
+**Thoughts:**
+This marks the 100th day of my first round of #100DaysOfCode. I really learned a lot! Now off to round 2!
+
+**Link to work:**
+https://www.udemy.com/the-complete-nodejs-developer-course-2/
