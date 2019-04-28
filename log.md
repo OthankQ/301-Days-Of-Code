@@ -927,3 +927,14 @@ This marks the 100th day of my first round of #100DaysOfCode. I really learned a
 
 **Link to work:**
 https://www.udemy.com/the-complete-nodejs-developer-course-2/
+
+### Day 85 :[4/27/2109]
+
+**Today's Progress**
+Added user input functionality to the CLI Node weather app. Learned about PHP Superglobals and made a basic website listing some of them out using Bootstrap cdn.
+
+**Thoughts:**
+Can't wait to build servers with both Node and PHP then compare the differences and weigh out the pros and cons.
+
+**Link to work:**
+https://www.udemy.com/the-complete-nodejs-developer-course-2/
