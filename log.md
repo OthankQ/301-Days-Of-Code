@@ -938,3 +938,14 @@ Can't wait to build servers with both Node and PHP then compare the differences 
 
 **Link to work:**
 https://www.udemy.com/the-complete-nodejs-developer-course-2/
+
+### Day 86 :[4/28/2109]
+
+**Today's Progress**
+Created a barebones server using express.js with Node to use it for the weather app.
+
+**Thoughts:**
+Makes me wonder how different servers using different languages and frameworks differ.
+
+**Link to work:**
+https://www.udemy.com/the-complete-nodejs-developer-course-2/
