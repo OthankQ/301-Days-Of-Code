@@ -949,3 +949,14 @@ Makes me wonder how different servers using different languages and frameworks d
 
 **Link to work:**
 https://www.udemy.com/the-complete-nodejs-developer-course-2/
+
+### Day 87 :[4/29/2109]
+
+**Today's Progress**
+Learned how to use Handlebars with Express (hbs) module and applied them to the weather app.
+
+**Thoughts:**
+Applied to Google and Microsoft internship. Maybe I should have learned Golang. Might be a good idea to start learning.
+
+**Link to work:**
+https://www.udemy.com/the-complete-nodejs-developer-course-2/
