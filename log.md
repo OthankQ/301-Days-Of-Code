@@ -829,7 +829,7 @@ Will continue on to the part that uses Async actions with Redux Thunk
 **Link to work:**
 https://www.udemy.com/react-redux/learn/v4/content
 
-### Day 76 :[4/18/2109]
+### Day 76 :[4/18/2019]
 
 **Today's Progress**
 Learned about Redux-Thunk and how it can be used to make API calls within Redux action creators with async/await.
@@ -840,7 +840,7 @@ Might have to go over it again to have a good grasp on the concept. On a side no
 **Link to work:**
 https://www.udemy.com/react-redux/learn/v4/content
 
-### Day 77 :[4/19/2109]
+### Day 77 :[4/19/2019]
 
 **Today's Progress**
 Got stuck hard trying to learn Redux-Thunk. Played around with Node modules like chalk and yargs. Learned a bit about filesystem.
@@ -851,7 +851,7 @@ Started studying Node as a way to cool my head, and also because I thought I was
 **Link to work:**
 https://www.udemy.com/the-complete-nodejs-developer-course-2/learn/v4/overview
 
-### Day 78 :[4/20/2109]
+### Day 78 :[4/20/2019]
 
 **Today's Progress**
 Went back to learning basics of Redux to get a good grasp before I went back to learning Redux-Thunk. Remade the music details app. Node wise, I'm currently putting together a CLI notes taking app. Implemented adding and delete functions.
@@ -862,7 +862,7 @@ I think it's good to learn React-Redux and Node.js at the same time. Makes thing
 **Link to work:**
 https://www.udemy.com/the-complete-nodejs-developer-course-2/learn/v4/overview
 
-### Day 79 :[4/21/2109]
+### Day 79 :[4/21/2019]
 
 **Today's Progress**
 Now I feel like I have a better grasp on the concept of Redux and Redux-Thunk. Completed the Node CLI notes taking app.
@@ -873,7 +873,7 @@ Will need a lot of practice using Redux and Redux-Thunk.
 **Link to work:**
 https://www.udemy.com/the-complete-nodejs-developer-course-2/learn/v4/overview
 
-### Day 80 :[4/22/2109]
+### Day 80 :[4/22/2019]
 
 **Today's Progress**
 Studied Redux back from analogy by reading a book: Understanding Redux by @OhansEmmanuel It's a great read. Also refactored a website template and made it into a personal website.
@@ -884,7 +884,7 @@ Having trouble registering custom domain name on Heroku.
 **Link to work:**
 https://medium.freecodecamp.org/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6
 
-### Day 81 :[4/23/2109]
+### Day 81 :[4/23/2019]
 
 **Today's Progress**
 Still going through the Redux book. Trying to understand reducers and action creators. Also worked on the weather app using node, fetching api requests using request module.
@@ -895,7 +895,7 @@ Redux is still kind of confusing to grasp. I'll push through until I get it.
 **Link to work:**
 https://medium.freecodecamp.org/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6
 
-### Day 82 :[4/24/2109]
+### Day 82 :[4/24/2019]
 
 **Today's Progress**
 Solved first two challenges in 'Understanding Redux'. It was challenging but I got a much better understanding while struggling to solve than watching a tutorial.
@@ -906,7 +906,7 @@ I'm now interested in finding good book on React.
 **Link to work:**
 https://medium.freecodecamp.org/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6
 
-### Day 83 :[4/25/2109]
+### Day 83 :[4/25/2019]
 
 **Today's Progress**
 Learned and solved exercises on using callback functions to handle async process such as sending an API request within a function.
@@ -917,7 +917,7 @@ Should I learn Golang on the side?
 **Link to work:**
 https://www.udemy.com/the-complete-nodejs-developer-course-2/
 
-### Day 84 :[4/26/2109]
+### Day 84 :[4/26/2019]
 
 **Today's Progress**
 Refactored the Node weather app with reusable API request function using callback functions. Started learning the basics of PHP.
@@ -928,7 +928,7 @@ This marks the 100th day of my first round of #100DaysOfCode. I really learned a
 **Link to work:**
 https://www.udemy.com/the-complete-nodejs-developer-course-2/
 
-### Day 85 :[4/27/2109]
+### Day 85 :[4/27/2019]
 
 **Today's Progress**
 Added user input functionality to the CLI Node weather app. Learned about PHP Superglobals and made a basic website listing some of them out using Bootstrap cdn.
@@ -939,7 +939,7 @@ Can't wait to build servers with both Node and PHP then compare the differences 
 **Link to work:**
 https://www.udemy.com/the-complete-nodejs-developer-course-2/
 
-### Day 86 :[4/28/2109]
+### Day 86 :[4/28/2019]
 
 **Today's Progress**
 Created a barebones server using express.js with Node to use it for the weather app.
@@ -950,13 +950,24 @@ Makes me wonder how different servers using different languages and frameworks d
 **Link to work:**
 https://www.udemy.com/the-complete-nodejs-developer-course-2/
 
-### Day 87 :[4/29/2109]
+### Day 87 :[4/29/2019]
 
 **Today's Progress**
 Learned how to use Handlebars with Express (hbs) module and applied them to the weather app.
 
 **Thoughts:**
 Applied to Google and Microsoft internship. Maybe I should have learned Golang. Might be a good idea to start learning.
+
+**Link to work:**
+https://www.udemy.com/the-complete-nodejs-developer-course-2/
+
+### Day 88 :[4/30/2019]
+
+**Today's Progress**
+Added handlebars header and footer partials to the existing weather app.
+
+**Thoughts:**
+Losing interest in this part of the course because why use handlebars when you can use React?
 
 **Link to work:**
 https://www.udemy.com/the-complete-nodejs-developer-course-2/
