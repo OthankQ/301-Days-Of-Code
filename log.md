@@ -982,3 +982,14 @@ Scikit looks confusing to use.
 
 **Link to work:**
 https://www.udemy.com/the-complete-nodejs-developer-course-2/
+
+### Day 90 :[5/2/2019]
+
+**Today's Progress**
+Attempted to write another Node API with a mongoDB database attached. Couldn't follow through because I couldn't connect their cluster to my application.
+
+**Thoughts:**
+Looking for a good article on how to do that with postgreSQL. Still searching.
+
+**Link to work:**
+https://www.udemy.com/the-complete-nodejs-developer-course-2/
