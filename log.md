@@ -971,3 +971,14 @@ Losing interest in this part of the course because why use handlebars when you c
 
 **Link to work:**
 https://www.udemy.com/the-complete-nodejs-developer-course-2/
+
+### Day 89 :[5/1/2019]
+
+**Today's Progress**
+Got tired of the node tutorial and decided to do some research and built a REST API with node from scratch. Also started looking into Python and machine learning for a side interest.
+
+**Thoughts:**
+Scikit looks confusing to use.
+
+**Link to work:**
+https://www.udemy.com/the-complete-nodejs-developer-course-2/
