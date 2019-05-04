@@ -993,3 +993,14 @@ Looking for a good article on how to do that with postgreSQL. Still searching.
 
 **Link to work:**
 https://www.udemy.com/the-complete-nodejs-developer-course-2/
+
+### Day 91 :[5/3/2019]
+
+**Today's Progress**
+Hooked up a mysql database to a node express server, wrote it to do the basic CRUD on the database.
+
+**Thoughts:**
+Now on to building an actual API with express and mysql.
+
+**Link to work:**
+https://www.youtube.com/watch?v=EN6Dx22cPRI
