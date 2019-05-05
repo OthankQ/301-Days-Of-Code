@@ -1004,3 +1004,14 @@ Now on to building an actual API with express and mysql.
 
 **Link to work:**
 https://www.youtube.com/watch?v=EN6Dx22cPRI
+
+### Day 92 :[5/4/2019]
+
+**Today's Progress**
+Learning SQL before writing an API with express. Going through it pretty quickly.
+
+**Thoughts:**
+Feeling a bit burnt out.
+
+**Link to work:**
+https://www.youtube.com/watch?v=EN6Dx22cPRI
