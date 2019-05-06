@@ -1015,3 +1015,14 @@ Feeling a bit burnt out.
 
 **Link to work:**
 https://www.youtube.com/watch?v=EN6Dx22cPRI
+
+### Day 93 :[5/5/2019]
+
+**Today's Progress**
+Going through a book on Python 3. Looking into Django framework.
+
+**Thoughts:**
+It's refreshing to learn a new language.
+
+**Link to work:**
+https://www.youtube.com/watch?v=F5mRW0jo-U4&t=243s
