@@ -1026,3 +1026,14 @@ It's refreshing to learn a new language.
 
 **Link to work:**
 https://www.youtube.com/watch?v=F5mRW0jo-U4&t=243s
+
+### Day 94 :[5/7/2019](Korea)
+
+**Today's Progress**
+Learned about opening, writing, reading files with Python. Also learned about class and modules.
+
+**Thoughts:**
+It's my first time learning an object oriented programming language. Interesting stuff!
+
+**Link to work:**
+https://www.youtube.com/watch?v=F5mRW0jo-U4&t=243s
