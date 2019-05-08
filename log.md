@@ -1037,3 +1037,14 @@ It's my first time learning an object oriented programming language. Interesting
 
 **Link to work:**
 https://www.youtube.com/watch?v=F5mRW0jo-U4&t=243s
+
+### Day 95 :[5/8/2019](Korea)
+
+**Today's Progress**
+Learned how to make lambda functions and how to import your files in as modules in Python. Also learned how to handle errors using try and except, how to pack things as a package. Made simple functions like CLI memo app.
+
+**Thoughts:**
+I want to look into Flask now.
+
+**Link to work:**
+https://www.youtube.com/watch?v=F5mRW0jo-U4&t=243s
