@@ -1048,3 +1048,14 @@ I want to look into Flask now.
 
 **Link to work:**
 https://www.youtube.com/watch?v=F5mRW0jo-U4&t=243s
+
+### Day 96 :[5/9/2019](Korea)
+
+**Today's Progress**
+Almost through with the Python book. Solved a few practice problems. Started learning regular expressions in Python.
+
+**Thoughts:**
+Regular expression seems to be useful.
+
+**Link to work:**
+https://www.youtube.com/watch?v=F5mRW0jo-U4&t=243s
