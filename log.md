@@ -1059,3 +1059,14 @@ Regular expression seems to be useful.
 
 **Link to work:**
 https://www.youtube.com/watch?v=F5mRW0jo-U4&t=243s
+
+### Day 97 :[5/10/2019](Korea)
+
+**Today's Progress**
+Finished the Python book. Learned a lot about regular expressions. It feels like I'm trying to decipher a code :P Started learning about deep learning. Wrote a code that figures out a rmse based on a set of data.
+
+**Thoughts:**
+Very excited to learn about deep learning. One step at a time.
+
+**Link to work:**
+https://www.youtube.com/watch?v=F5mRW0jo-U4&t=243s
