@@ -1070,3 +1070,14 @@ Very excited to learn about deep learning. One step at a time.
 
 **Link to work:**
 https://www.youtube.com/watch?v=F5mRW0jo-U4&t=243s
+
+### Day 98 :[5/11/2019](Korea)
+
+**Today's Progress**
+Built a basic bare bones Flask server. Learned about Multiple linear regression and built a simple code that does gradient descent. Started learning about logistic regression.
+
+**Thoughts:**
+The more I know, the more it gets exciting!
+
+**Link to work:**
+https://www.youtube.com/watch?v=F5mRW0jo-U4&t=243s
