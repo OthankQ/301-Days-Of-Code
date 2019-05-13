@@ -1081,3 +1081,14 @@ The more I know, the more it gets exciting!
 
 **Link to work:**
 https://www.youtube.com/watch?v=F5mRW0jo-U4&t=243s
+
+### Day 99 :[5/12/2019](Korea)
+
+**Today's Progress**
+Wrote a model that classifies what type of iris species the given data is. Also brushed upon Python classes.
+
+**Thoughts:**
+I wish this book had been more thorough with its code examples.
+
+**Link to work:**
+https://www.youtube.com/watch?v=F5mRW0jo-U4&t=243s
