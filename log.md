@@ -1092,3 +1092,14 @@ I wish this book had been more thorough with its code examples.
 
 **Link to work:**
 https://www.youtube.com/watch?v=F5mRW0jo-U4&t=243s
+
+### Day 100 :[5/13/2019](Korea)
+
+**Today's Progress**
+Got an email from Google Japan I applied a few days back saying there will be an online coding quiz next week. Going over basic algorithms with Python like recursive and arrays.
+
+**Thoughts:**
+Any good resource for algorithms and Python is welcome!
+
+**Link to work:**
+https://www.youtube.com/watch?v=F5mRW0jo-U4&t=243s
