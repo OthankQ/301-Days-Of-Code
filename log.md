@@ -1103,3 +1103,14 @@ Any good resource for algorithms and Python is welcome!
 
 **Link to work:**
 https://www.youtube.com/watch?v=F5mRW0jo-U4&t=243s
+
+### Day 101 :[5/14/15/2019](Korea)
+
+**Today's Progress**
+Flew through the algorithm book. Will need to go back to it. Also need to understand quick sort better.
+
+**Thoughts:**
+Spent more time than necessary trying to setup a Flask server using WSL because I couldn't get zsh to work.
+
+**Link to work:**
+https://www.youtube.com/watch?v=F5mRW0jo-U4&t=243s
