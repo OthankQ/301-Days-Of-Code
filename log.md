@@ -1125,3 +1125,25 @@ Need to study more on algorithms. Wanting to practice sorting algorithms.
 
 **Link to work:**
 https://www.youtube.com/watch?v=F5mRW0jo-U4&t=243s
+
+### Day 104 :[5/18/2019](Korea)
+
+**Today's Progress**
+Brushed upon what HTTP request and response looks like, status codes, the REST and GraphQL architecture of an API. Added 'sign-up' endpoint to the ping pong api to start building a minimal version of Twitter.
+
+**Thoughts:**
+It feels like a nice change of pace from studying algorithms.
+
+**Link to work:**
+https://www.youtube.com/watch?v=F5mRW0jo-U4&t=243s
+
+## Day 105/106 :[5/19/20/2019](Korea)
+
+**Today's Progress**
+Didn't work much on the Python server. Instead, tried to prepare for the upcoming internship quiz from Google Japan. Read about different data structures and which is good for what and solved a few quizzes.
+
+**Thoughts:**
+Feel like I should have studied so much more.
+
+**Link to work:**
+https://www.youtube.com/watch?v=F5mRW0jo-U4&t=243s
