@@ -1147,3 +1147,14 @@ Feel like I should have studied so much more.
 
 **Link to work:**
 https://www.youtube.com/watch?v=F5mRW0jo-U4&t=243s
+
+## Day 107 :[5/21/2019](Korea)
+
+**Today's Progress**
+Added tweet and follow endpoint to the minimal version of twitter server.
+
+**Thoughts:**
+Back to studying the backend!
+
+**Link to work:**
+https://www.youtube.com/watch?v=F5mRW0jo-U4&t=243s
