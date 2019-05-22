@@ -1158,3 +1158,14 @@ Back to studying the backend!
 
 **Link to work:**
 https://www.youtube.com/watch?v=F5mRW0jo-U4&t=243s
+
+## Day 108 :[5/22/2019](Korea)
+
+**Today's Progress**
+After taking the Google internship quiz, I came to realize the importance of 'problem solving' skill. I think I'll make @hackerrank my daily routine. Solved three python quizzes today.
+
+**Thoughts:**
+Having trouble coming up with a fun python project.
+
+**Link to work:**
+https://www.youtube.com/watch?v=F5mRW0jo-U4&t=243s
