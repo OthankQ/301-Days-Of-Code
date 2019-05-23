@@ -1169,3 +1169,14 @@ Having trouble coming up with a fun python project.
 
 **Link to work:**
 https://www.youtube.com/watch?v=F5mRW0jo-U4&t=243s
+
+## Day 109 :[5/23/2019](Korea)
+
+**Today's Progress**
+Solved two python questions on Hackerrank. Also solved first two questions on Project Euler. Felt a lot harder than it should be. Stuck on the third problem.
+
+**Thoughts:**
+Still have to solve the prime factor problem on project euler.
+
+**Link to work:**
+https://www.youtube.com/watch?v=F5mRW0jo-U4&t=243s
