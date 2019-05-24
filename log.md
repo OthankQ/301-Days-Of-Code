@@ -1180,3 +1180,14 @@ Still have to solve the prime factor problem on project euler.
 
 **Link to work:**
 https://www.youtube.com/watch?v=F5mRW0jo-U4&t=243s
+
+## Day 110 :[5/23/2019](Korea)
+
+**Today's Progress**
+Solved a euler project, by hand... on to solve the first interview problem in Hackerrank.
+
+**Thoughts:**
+Feeling myself getting better at finding out what the question is really asking for.
+
+**Link to work:**
+https://www.youtube.com/watch?v=F5mRW0jo-U4&t=243s
