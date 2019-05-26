@@ -1191,3 +1191,14 @@ Feeling myself getting better at finding out what the question is really asking 
 
 **Link to work:**
 https://www.youtube.com/watch?v=F5mRW0jo-U4&t=243s
+
+## Day 111 :[5/24/2019](Korea)
+
+**Today's Progress**
+Been solving Interview Preparation Kit problems on Hackerrank. Solved around 10 questions today. and around 2 yesterday.
+
+**Thoughts:**
+I think I'm starting to enjoy that moment when you finally get the code right.
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
