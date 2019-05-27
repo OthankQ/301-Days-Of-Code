@@ -1192,13 +1192,24 @@ Feeling myself getting better at finding out what the question is really asking 
 **Link to work:**
 https://www.youtube.com/watch?v=F5mRW0jo-U4&t=243s
 
-## Day 111 :[5/24/2019](Korea)
+## Day 111/112 :[5/24/25/2019](Korea)
 
 **Today's Progress**
 Been solving Interview Preparation Kit problems on Hackerrank. Solved around 10 questions today. and around 2 yesterday.
 
 **Thoughts:**
 I think I'm starting to enjoy that moment when you finally get the code right.
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
+
+## Day 113 :[5/26/2019](Korea)
+
+**Today's Progress**
+Taking data structure and algorithm course from Google on Udacity. On linked list right now. Learned how to create nodes and linked list with Python class. Also took the first lecture of the MIT course on algorithm on Youtube.
+
+**Thoughts:**
+Can't wait to put the things I learned to practice.
 
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
