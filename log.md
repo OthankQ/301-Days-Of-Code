@@ -1213,3 +1213,14 @@ Can't wait to put the things I learned to practice.
 
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
+
+## Day 114 :[5/27/2019](Korea)
+
+**Today's Progress**
+Udacity Google course continued. Learned about stack and queue and implemented them with linked list class in Python.
+
+**Thoughts:**
+Hoping to use the knowledge for solving problems soon.
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
