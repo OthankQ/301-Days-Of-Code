@@ -1224,3 +1224,14 @@ Hoping to use the knowledge for solving problems soon.
 
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
+
+## Day 115 :[5/28/2019](Korea)
+
+**Today's Progress**
+Solved two challenges 3 challenges on HackerRank.
+
+**Thoughts:**
+Can't really say it was a productive day.
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
