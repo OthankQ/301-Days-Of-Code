@@ -1235,3 +1235,14 @@ Can't really say it was a productive day.
 
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
+
+## Day 116 :[5/29/2019](Korea)
+
+**Today's Progress**
+I solved a few problems on Hackerrank and learned how to render template files using Flask.
+
+**Thoughts:**
+Been struggling to keep myself motivated lately.
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
