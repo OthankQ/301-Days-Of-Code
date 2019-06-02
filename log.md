@@ -1236,13 +1236,24 @@ Can't really say it was a productive day.
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
 
-## Day 116 :[5/29/2019](Korea)
+## Day 116 :[5/30/2019](Korea)
 
 **Today's Progress**
 I solved a few problems on Hackerrank and learned how to render template files using Flask.
 
 **Thoughts:**
 Been struggling to keep myself motivated lately.
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
+
+## Day 117 :[6/1/2019](Korea)
+
+**Today's Progress**
+Studied basic Swift syntax using Sololearn because I don't have access to a mac yet.
+
+**Thoughts:**
+Getting ready to start developing for ios.
 
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
