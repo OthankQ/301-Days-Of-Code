@@ -1257,3 +1257,14 @@ Getting ready to start developing for ios.
 
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
+
+## Day 118 :[6/2/2019](Korea)
+
+**Today's Progress**
+Studied Swift array, conditional, string and loop syntax on Sololearn.
+
+**Thoughts:**
+Getting ready to start developing for ios.
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
