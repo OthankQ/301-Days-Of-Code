@@ -1268,3 +1268,14 @@ Getting ready to start developing for ios.
 
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
+
+## Day 119 :[6/3/2019](Korea)
+
+**Today's Progress**
+Learned about set datatype in Swift.
+
+**Thoughts:**
+Seems similar to how set works in Python.
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
