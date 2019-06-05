@@ -1279,3 +1279,14 @@ Seems similar to how set works in Python.
 
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
+
+## Day 120 :[6/4/2019](Korea)
+
+**Today's Progress**
+Learned about dictionary data type and how declaring and calling functions work in Swift.
+
+**Thoughts:**
+It's cool how you can declare multiple return values wrapped in a tuple, then access them using dot notation.
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
