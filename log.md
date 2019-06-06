@@ -1283,10 +1283,10 @@ https://www.hackerrank.com/interview/interview-preparation-kit
 ## Day 120 :[6/4/2019](Korea)
 
 **Today's Progress**
-Learned about dictionary data type and how declaring and calling functions work in Swift.
+While waiting for the mac mini, I studied upon Swift functions, how it functions can return functions. reminded me of the JS callbacks. Also tried to start learning Flutter. Couldn't resolve tools.jar error on Android Studio.
 
 **Thoughts:**
-It's cool how you can declare multiple return values wrapped in a tuple, then access them using dot notation.
+Very frustrated with the tutorial. Might have to start from clean slate.
 
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
