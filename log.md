@@ -1290,3 +1290,16 @@ Very frustrated with the tutorial. Might have to start from clean slate.
 
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
+
+## Day 121 :[6/5/2019](Korea)
+
+**Today's Progress**
+till haven't figured out a way to properly setup Flutter developing environment. Taking basic Swift syntax course on lynda.com, all the way up to dictionaries.
+
+**Thoughts:**
+Really waiting for the mac to arrive.
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
+
+S
