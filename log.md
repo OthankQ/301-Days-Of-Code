@@ -1302,4 +1302,15 @@ Really waiting for the mac to arrive.
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
 
-S
+## Day 122 :[6/6/2019](Korea)
+
+**Today's Progress**
+Finally got the Mac mini. Played around with the Xcode playground using the exercise code file from lynda.com lecture. Learned how to use objects using IBoutlet and IBaction.
+
+**Thoughts:**
+Mac is finally here!
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
+
+
