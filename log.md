@@ -1313,4 +1313,14 @@ Mac is finally here!
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
 
+## Day 123 :[6/7/2019](Korea)
+
+**Today's Progress**
+Finally got my hands dirty making really simple apps using Xcode. Lightbulb that turns on and off, app showing image using picker viewer object, alarm app that turns the background app using date picker object.
+
+**Thoughts:**
+Interesting stuff.
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
 
