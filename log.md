@@ -1324,3 +1324,15 @@ Interesting stuff.
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
 
+# Day 124 :[6/8/2019](Korea)
+
+**Today's Progress**
+Finally got my hands dirty making really simple apps using Xcode. Lightbulb that turns on and off, app showing image using picker viewer object, alarm app that turns the background app using date picker object.
+
+**Thoughts:**
+I want to start making ideas into apps. But start where?
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
+
+ 
