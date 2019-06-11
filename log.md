@@ -1335,4 +1335,17 @@ I want to start making ideas into apps. But start where?
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
 
+# Day 125 :[6/9/2019](Korea)
+
+**Today's Progress**
+More on Swift functions syntax. Returning an optional with a function then unwrapping it with an optional binding. Taking a look at SwiftUI.
+
+**Thoughts:**
+The syntax reminds me of React a little bit.
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
+
+ 
+
  
