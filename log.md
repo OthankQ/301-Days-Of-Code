@@ -1346,6 +1346,17 @@ The syntax reminds me of React a little bit.
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
 
+# Day 126 :[6/10/2019](Korea)
+
+**Today's Progress**
+Made my first 'view' with Swift UI following @CodeWithChris tutorial. Unfortunately, because I don't have access to MacOS 10.15 Catalina yet, I'm getting by with Xcode playground at the moment. Learned about closure in Swift.
+
+**Thoughts:**
+In what context is closure useful in Swift?
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
+
  
 
  
