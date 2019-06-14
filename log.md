@@ -1357,6 +1357,17 @@ In what context is closure useful in Swift?
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
 
+# Day 127 :[6/12/2019](Korea)
+
+**Today's Progress**
+Learned more about functions and classes in Swift. Started watching @CodeWithChris videos on Swift basics and app creating using Xcode. 
+
+**Thoughts:**
+Hoping to acquire some knowledge and skills by the end of the videos, enough to do things on my own.
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
+
  
 
  
