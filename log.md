@@ -1368,6 +1368,17 @@ Hoping to acquire some knowledge and skills by the end of the videos, enough to 
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
 
- 
+# Day 128 :[6/13/2019](Korea)
+
+**Today's Progress**
+More practice with constraints  and layout in Xcode. Also studied more on classes, initializers in Swift and inheritance. 
+
+**Thoughts:**
+Want to start my own project but quite not getting where to start.
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
+
+  
 
  
