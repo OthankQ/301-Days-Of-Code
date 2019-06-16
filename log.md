@@ -1379,6 +1379,16 @@ Want to start my own project but quite not getting where to start.
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
 
+# Day 129 :[6/14/2019](Korea)
+
+**Today's Progress**
+Mistyped yesterday's day count...oops! Finished @CodeWithChris ios beginner course on Youtube. Amazing course! I highly recommend it. Started a little project of my own. Having trouble with date picker UI formatting.
+
+**Thoughts:**
+Small effort, everyday.
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
   
 
  
