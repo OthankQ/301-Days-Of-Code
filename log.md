@@ -1389,6 +1389,17 @@ Small effort, everyday.
 
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
+
+# Day 130 :[6/15/2019](Korea)
+
+**Today's Progress**
+Working on a workout timer app. I had it do a countdown from a selected time anywhere between 0 and 5 min. Added reset, start and pause functionality. Next step: add alarm and a flashing screen.
+
+**Thoughts:**
+Really feels good to work on my own project.
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
   
 
  
