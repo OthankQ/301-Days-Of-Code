@@ -1400,6 +1400,17 @@ Really feels good to work on my own project.
 
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
+
+# Day 131 :[6/16/2019](Korea)
+
+**Today's Progress**
+Added a second view, alarm functionality to the workout timer app. Next step: Add notification. Following @CodeWithChris tutorial on making card matching game app.
+
+**Thoughts:**
+Learning a lot from it.
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
   
 
  
