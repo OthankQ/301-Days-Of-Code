@@ -1411,6 +1411,17 @@ Learning a lot from it.
 
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
+
+# Day 132 :[6/17/2019](Korea)
+
+**Today's Progress**
+Added notification functionality to the workout timer app.
+
+**Thoughts:**
+Listened to a lecture from Stanford on ios development and learned about the MVC architecture
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
   
 
- 
+  
