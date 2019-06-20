@@ -1422,6 +1422,17 @@ Listened to a lecture from Stanford on ios development and learned about the MVC
 
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
+
+# Day 133 :[6/18/2019](Korea)
+
+**Today's Progress**
+Changed the buttons' styles to look more like a 'button'. Also switched the location of the code that asks for notification permission to when the app gets launched the first time. Refactored the main viewcontroller class.
+
+**Thoughts:**
+Can't wait to start the next project!
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
   
 
-  
+
