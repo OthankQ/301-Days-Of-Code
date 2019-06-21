@@ -1433,6 +1433,17 @@ Can't wait to start the next project!
 
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
+
+# Day 134 :[6/19/2019](Korea)
+
+**Today's Progress**
+Following @CodeWithChris tutorial on making card matching app. Still learning about MVC pattern. So far built the 'model' part of the app and now ready to build out the collection view cell class and learn about delegate.
+
+**Thoughts:**
+Thinking about beginning the spin the bottle app. Need image assets.
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
   
 
 
