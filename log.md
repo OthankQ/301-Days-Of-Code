@@ -1444,6 +1444,17 @@ Thinking about beginning the spin the bottle app. Need image assets.
 
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
+
+# Day 135 :[6/20/2019](Korea)
+
+**Today's Progress**
+Got confused a bit during @CodeWithChris tutorial with delegate and protocol. Looked up other sources to study this topic on but still kinda stuck. Building a new project using motion sensor in iPhone
+
+**Thoughts:**
+How to make spinning motion smooth...
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
   
 
 
