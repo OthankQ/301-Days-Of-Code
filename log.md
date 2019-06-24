@@ -1456,5 +1456,15 @@ How to make spinning motion smooth...
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
   
+# Day 136 :[6/21/2019](Korea)
 
+**Today's Progress**
+Started learning about table view in Xcode while following a checklist app tutorial on raywenderlich.com So far learned how to create custom table view controller.
 
+**Thoughts:**
+Maybe it's not a bad timing to start learning about Swift UI?
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
+
+ 
