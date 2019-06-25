@@ -1467,4 +1467,15 @@ Maybe it's not a bad timing to start learning about Swift UI?
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
 
+# Day 137 :[6/22/2019](Korea)
+
+**Today's Progress**
+Got confused with the whole delegate and protocol thing in Swift. Was following raywenderlich.com course and thought I was lacking the fundamentals. Started following Apple's official guide to building apps.
+
+**Thoughts:**
+What's missing?
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
+
  
