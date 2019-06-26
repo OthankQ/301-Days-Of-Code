@@ -1478,4 +1478,16 @@ What's missing?
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
 
- 
+# Day 138 :[6/23/2019](Korea)
+
+**Today's Progress**
+Still following Apple's iOS development guide. Implementing gestures and image picker then controlling them using delegates.
+
+**Thoughts:**
+Still confusing.
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
+
+
+  
