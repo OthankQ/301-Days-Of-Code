@@ -1489,5 +1489,16 @@ Still confusing.
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
 
+# Day 139 :[6/24/2019](Korea)
+
+**Today's Progress**
+Went back to the basics and learned how to create image assets I need for projects using Canva. Played around with Xcode storyboard.
+
+**Thoughts:**
+How to design good apps?
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
+
 
   
