@@ -1500,5 +1500,16 @@ How to design good apps?
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
 
+# Day 140 :[6/25/2019](Korea)
+
+**Today's Progress**
+Currently on creating a BMI calculator app. Struggling with getting values from text field and unwrapping them as the right data type.
+
+**Thoughts:**
+How to handle optionals better?
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
+
 
   
