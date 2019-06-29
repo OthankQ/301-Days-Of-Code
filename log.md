@@ -1511,5 +1511,16 @@ How to handle optionals better?
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
 
+# Day 140 :[6/26/2019](Korea)
+
+**Today's Progress**
+Learned how to play audio using AVfoundation in Swift. Started my own snippet notepad to store my own snippets of code I can use later.
+
+**Thoughts:**
+Should have started this sooner.
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
+
 
   
