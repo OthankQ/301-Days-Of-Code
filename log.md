@@ -1522,5 +1522,16 @@ Should have started this sooner.
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
 
+# Day 141 :[6/27/2019](Korea)
 
-  
+**Today's Progress**
+Quiz app in progress. On getting used to structuring code in MVC design pattern.
+
+**Thoughts:**
+Using UIAlertController is confusing that I had expected.
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
+
+
+   
