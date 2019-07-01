@@ -1533,5 +1533,16 @@ Using UIAlertController is confusing that I had expected.
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
 
+# Day 142 :[6/28/2019](Korea)
+
+**Today's Progress**
+Finished the quiz app. Learned how to incorporate third party objective-c code using bridging header file.
+
+**Thoughts:**
+Maybe I should try building the same app from scratch?
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
+
 
    
