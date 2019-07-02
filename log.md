@@ -1544,5 +1544,16 @@ Maybe I should try building the same app from scratch?
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
 
+# Day 143 :[6/29/2019](Korea)
 
-   
+**Today's Progress**
+Practiced laying views out on screen using auto layout and setting constraints.
+
+**Thoughts:**
+Still confused on how to set different constraints for different screen sizes and orientations.
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
+
+
+    
