@@ -1555,5 +1555,16 @@ Still confused on how to set different constraints for different screen sizes an
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
 
+# Day 144 :[6/30/2019](Korea)
+
+**Today's Progress**
+Added shuffle functionality to the quiz app. Refreshed myself on creating class, inheriting, overriding in Swift.
+
+**Thoughts:**
+Time for optionals.
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
+
 
     
