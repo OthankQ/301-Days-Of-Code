@@ -1360,7 +1360,7 @@ https://www.hackerrank.com/interview/interview-preparation-kit
 # Day 127 :[6/12/2019](Korea)
 
 **Today's Progress**
-Learned more about functions and classes in Swift. Started watching @CodeWithChris videos on Swift basics and app creating using Xcode. 
+Learned more about functions and classes in Swift. Started watching @CodeWithChris videos on Swift basics and app creating using Xcode.
 
 **Thoughts:**
 Hoping to acquire some knowledge and skills by the end of the videos, enough to do things on my own.
@@ -1371,7 +1371,7 @@ https://www.hackerrank.com/interview/interview-preparation-kit
 # Day 128 :[6/13/2019](Korea)
 
 **Today's Progress**
-More practice with constraints  and layout in Xcode. Also studied more on classes, initializers in Swift and inheritance. 
+More practice with constraints and layout in Xcode. Also studied more on classes, initializers in Swift and inheritance.
 
 **Thoughts:**
 Want to start my own project but quite not getting where to start.
@@ -1455,7 +1455,7 @@ How to make spinning motion smooth...
 
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
-  
+
 # Day 136 :[6/21/2019](Korea)
 
 **Today's Progress**
@@ -1566,5 +1566,13 @@ Time for optionals.
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
 
+# Day 145 :[7/1/2019](Korea)
 
-    
+**Today's Progress**
+Learned more about optionals in swift and how it keeps your app from crashing. Trying to install cocoapods on my mac in cloud computer. No luck yet.
+
+**Thoughts:**
+Mac in cloud is frustrating.
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
