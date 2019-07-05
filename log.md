@@ -1576,3 +1576,14 @@ Mac in cloud is frustrating.
 
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
+
+# Day 146 :[7/2/2019](Korea)
+
+**Today's Progress**
+Added GPS functionality to the weather app using CoreLocation library. Also learned how to get location permission from users.
+
+**Thoughts:**
+Can't wait to continue building the app.
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
