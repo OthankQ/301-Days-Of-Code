@@ -1587,3 +1587,14 @@ Can't wait to continue building the app.
 
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
+
+# Day 147 :[7/3/2019](Korea)
+
+**Today's Progress**
+Implemented Alamofire to the weather app to send HTTP request to open weather map API.
+
+**Thoughts:**
+Time to use SwiftyJson to manipulate data received.
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
