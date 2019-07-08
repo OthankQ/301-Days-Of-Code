@@ -1598,3 +1598,14 @@ Time to use SwiftyJson to manipulate data received.
 
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
+
+# Day 148 :[7/4/2019](Korea)
+
+**Today's Progress**
+Learned more about segue in detail and how to pass data from one viewcontroller to another.
+
+**Thoughts:**
+Feel like I learned a great piece of knowledge today.
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
