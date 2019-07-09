@@ -1609,3 +1609,14 @@ Feel like I learned a great piece of knowledge today.
 
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
+
+# Day 149 :[7/5/2019](Korea)
+
+**Today's Progress**
+Learned how to create protocol, make a view controller conform to that protocol, set current view controller as the delegate to another view controller to receive data from that view controller. Also learned about optional chaining.
+
+**Thoughts:**
+How to pass data back and forth between VCs?
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
