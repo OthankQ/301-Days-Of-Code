@@ -1620,3 +1620,15 @@ How to pass data back and forth between VCs?
 
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
+
+# Day 149 :[7/6/2019](Korea)
+
+**Today's Progress**
+More in-depth practice on passing data back and forth multiple screens using protocol and delegate. Created a practice project changing label with textfield input value.
+
+**Thoughts:**
+Wanting to get more clear on protocols and delegates.
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
+
