@@ -1621,7 +1621,7 @@ How to pass data back and forth between VCs?
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
 
-# Day 149 :[7/6/2019](Korea)
+# Day 150 :[7/6/2019](Korea)
 
 **Today's Progress**
 More in-depth practice on passing data back and forth multiple screens using protocol and delegate. Created a practice project changing label with textfield input value.
@@ -1632,3 +1632,15 @@ Wanting to get more clear on protocols and delegates.
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
 
+# Day 151 :[7/7/2019](Korea)
+
+**Today's Progress**
+Wrapped up the very basic weather app that shows the user what degree it is in different units, weather status with an icon, and city name via a text label. Think I might implement hourly forecast.
+
+**Thoughts:**
+Anyone know a good free weather API?
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
+
+ 
