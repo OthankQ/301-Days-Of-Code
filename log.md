@@ -1643,4 +1643,15 @@ Anyone know a good free weather API?
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
 
+# Day 152 :[7/8/2019](Korea)
+
+**Today's Progress**
+Made a Bitcoin price checker where you can check price of one bitcoin in dozens of currencies. Learned how to setup and link Firebase realtime database to an iOS app.
+
+**Thoughts:**
+Next step: Firebase Authentication and registration.
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
+
  
