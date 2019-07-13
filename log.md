@@ -1654,4 +1654,15 @@ Next step: Firebase Authentication and registration.
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
 
+# Day 153 :[7/9/2019](Korea)
+
+**Today's Progress**
+Working on a Whatsapp clone. Implemented signout, registration, login feature. Learned how to create and use navigation controller, also how to pop to root view controller. Completion handlers and closures.
+
+**Thoughts:**
+Firebase is great.
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
+
  
