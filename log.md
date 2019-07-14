@@ -1665,4 +1665,15 @@ Firebase is great.
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
 
+# Day 154 :[7/10/2019](Korea)
+
+**Today's Progress**
+Displayed hardcoded messages in cells using Table View. Learned to use a few methods like dequeReusableCell related to table views. Implemented UIAnimation to textfield and methods to send messages to Firebase database.
+
+**Thoughts:**
+Been a very productive day!
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
+
  
