@@ -1676,4 +1676,15 @@ Been a very productive day!
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
 
+# Day 155 :[7/11/2019](Korea)
+
+**Today's Progress**
+Finished the Whatsapp clone app. It was interesting to see how the Firebase takes a snapshot of any changes made to its data and sends it back to the app so it could be parsed for presentation.
+
+**Thoughts:**
+Off to the next app!
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
+
  
