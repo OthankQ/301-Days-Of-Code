@@ -1687,4 +1687,15 @@ Off to the next app!
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
 
+# Day 156 :[7/12/2019](Korea)
+
+**Today's Progress**
+Started a todo list app project. Finished creating a custom UITableViewController class. Learned how to create table view from inheriting instead of conforming to protocols and setting delegates.
+
+**Thoughts:**
+Excited to start on a new project.
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
+
  
