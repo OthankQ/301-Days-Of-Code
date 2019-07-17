@@ -1698,4 +1698,15 @@ Excited to start on a new project.
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
 
- 
+# Day 157 :[7/13/2019](Korea)
+
+**Today's Progress**
+Added a feature so check marks appear in each cell in the table view when clicked. Also added new item functionality.
+
+**Thoughts:**
+Next is learning how to use local data storage.
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
+
+  
