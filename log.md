@@ -1709,4 +1709,15 @@ Next is learning how to use local data storage.
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
 
+# Day 158 :[7/13/2019](Korea)
+
+**Today's Progress**
+Made a custom data model class to store information about each cells in the todo app. Refactored some of the code.
+
+**Thoughts:**
+Should have done more studying.
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
+
   
