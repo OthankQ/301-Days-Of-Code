@@ -1720,4 +1720,15 @@ Should have done more studying.
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
 
+# Day 159 :[7/14/2019](Korea)
+
+**Today's Progress**
+Not much progress today. Just some simple refactoring and learning new concepts like what sandboxing is in iOS.
+
+**Thoughts:**
+Wanting ability to turn ideas into real stuff.
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
+
   
