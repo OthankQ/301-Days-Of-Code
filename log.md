@@ -1731,4 +1731,16 @@ Wanting ability to turn ideas into real stuff.
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
 
+# Day 160 :[7/15/2019](Korea)
+
+**Today's Progress**
+Learned how to save user data using Core Data and implemented it in the todo list app. Learned about the concept of context and persistent container.
+
+**Thoughts:**
+Gotta pickup the pace.
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
+
+
   
