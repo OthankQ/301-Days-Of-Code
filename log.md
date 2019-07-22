@@ -1742,5 +1742,16 @@ Gotta pickup the pace.
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
 
+# Day 161 :[7/16/2019](Korea)
+
+**Today's Progress**
+Implemented code to pull out the saved data from Core Data and display it onto the table view.
+
+**Thoughts:**
+Gotta pickup the pace.
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
+
 
   
