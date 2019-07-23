@@ -1753,5 +1753,16 @@ Gotta pickup the pace.
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
 
+# Day 162 :[7/17/2019](Korea)
+
+**Today's Progress**
+Learned and implemented methods to update and delete data from Core Data to the todo list app.
+
+**Thoughts:**
+Gotta pickup the pace.
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
+
 
   
