@@ -1764,5 +1764,16 @@ Gotta pickup the pace.
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
 
+# Day 163 :[7/18/2019](Korea)
+
+**Today's Progress**
+Learned how to insert UISearchbar and divide up the controller code using extensions. Did just that to cut up the code into smaller pieces with different functionalities.
+
+**Thoughts:**
+Feeling burnt out lately.
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
+
 
   
