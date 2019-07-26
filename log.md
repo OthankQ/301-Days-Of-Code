@@ -1775,5 +1775,16 @@ Feeling burnt out lately.
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
 
+# Day 164 :[7/19/2019](Korea)
+
+**Today's Progress**
+Started my own project to get out of the tutorial purgatory. I got a basic prototype made with crude UI and basic functionality.
+
+**Thoughts:**
+Keep going.
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
+
 
   
