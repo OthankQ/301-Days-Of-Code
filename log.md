@@ -1786,5 +1786,16 @@ Keep going.
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
 
+# Day 165 :[7/20/2019](Korea)
+
+**Today's Progress**
+Added a new viewController and a segue to my project app. Got a bit confused trying to send data to the second VC.
+
+**Thoughts:**
+Keep going.
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
+
 
   
