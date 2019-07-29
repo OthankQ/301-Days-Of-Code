@@ -1797,5 +1797,15 @@ Keep going.
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
 
+# Day 166 :[7/21/2019](Korea)
 
-  
+**Today's Progress**
+Learned about how to put a searchbar and make it query for searched items. Bit confused. Might have to go back to it for a few more times.  
+
+**Thoughts:**
+Keep going.
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
+
+
