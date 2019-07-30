@@ -1800,7 +1800,7 @@ https://www.hackerrank.com/interview/interview-preparation-kit
 # Day 166 :[7/21/2019](Korea)
 
 **Today's Progress**
-Learned about how to put a searchbar and make it query for searched items. Bit confused. Might have to go back to it for a few more times.  
+Learned about how to put a searchbar and make it query for searched items. Bit confused. Might have to go back to it for a few more times.
 
 **Thoughts:**
 Keep going.
@@ -1808,4 +1808,15 @@ Keep going.
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
 
+# Day 167 :[7/22/2019](Korea)
 
+**Today's Progress**
+Set up a Django project to start my own blogging site. Also brushed upon SQL commands to start my studies on data viz and data science.
+
+**Thoughts:**
+Keep going.
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
+
+Set up a Django project to start my own blogging site. Also brushed upon SQL commands to start my studies on data viz and data science.
