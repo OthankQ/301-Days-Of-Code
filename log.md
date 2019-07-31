@@ -1819,4 +1819,17 @@ Keep going.
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
 
-Set up a Django project to start my own blogging site. Also brushed upon SQL commands to start my studies on data viz and data science.
+# Day 168 :[7/23/2019](Korea)
+
+**Today's Progress**
+Learned how to use aggregate functions in SQL and played around querying for data using an example data base.
+
+**Thoughts:**
+Keep going.
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
+
+
+
+
