@@ -1830,6 +1830,13 @@ Keep going.
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
 
+# Day 169 :[7/24/2019](Korea)
 
+**Today's Progress**
+More practice with SQL aggregate functions. Learned how to work with multiple tables such using JOIN and LEFT JOIN. Kind of confusing. Will need more practice.
 
+**Thoughts:**
+Keep going.
 
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
