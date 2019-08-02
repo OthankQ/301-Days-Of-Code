@@ -1840,3 +1840,14 @@ Keep going.
 
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
+
+# Day 170 :[7/25/2019](Korea)
+
+**Today's Progress**
+More SQL. Learned how to use left join cross join, WITH function and UNION.
+
+**Thoughts:**
+Keep going.
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
