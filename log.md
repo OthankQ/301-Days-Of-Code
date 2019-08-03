@@ -1851,3 +1851,14 @@ Keep going.
 
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
+
+# Day 171 :[7/26/2019](Korea)
+
+**Today's Progress**
+More practice with left join, inner join and cross join on multiple tables.
+
+**Thoughts:**
+Keep going.
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
