@@ -1862,3 +1862,14 @@ Keep going.
 
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
+
+# Day 172 :[7/27/2019](Korea)
+
+**Today's Progress**
+Installed DB browser and practiced SQL on real life database. Brushed upon basic Python syntax to refresh myself.
+
+**Thoughts:**
+Keep going.
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
