@@ -1873,3 +1873,16 @@ Keep going.
 
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
+
+# Day 173 :[7/28/2019](Korea)
+
+**Today's Progress**
+Wrote some simple Python game functions where users can play dice rolling game, coin flipping games, roulette and card picking game with a call and a betting amount as parameters.
+
+**Thoughts:**
+Keep going.
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
+
+
