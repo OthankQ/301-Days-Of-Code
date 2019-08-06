@@ -1885,4 +1885,18 @@ Keep going.
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
 
+# Day 174 :[7/29/2019](Korea)
+
+**Today's Progress**
+More basic Python. Mostly playing around with manipulating lists. I hope I'm making more progress than I feel like I am.
+
+**Thoughts:**
+Keep going.
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
+
+
+
+
 
