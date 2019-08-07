@@ -1896,6 +1896,16 @@ Keep going.
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
 
+# Day 175 :[7/30/2019](Korea)
+
+**Today's Progress**
+More loop manipulation and linear regression problem solving with Jupyter notebook.
+
+**Thoughts:**
+Keep going.
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
 
 
 
