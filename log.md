@@ -1877,7 +1877,12 @@ https://www.hackerrank.com/interview/interview-preparation-kit
 # Day 173 :[7/28/2019](Korea)
 
 **Today's Progress**
+<<<<<<< HEAD
 More loop manipulation and linear regression problem solving with Jupyter notebook.
+=======
+Wrote some simple Python game functions where users can play dice rolling game, coin flipping games, roulette and card picking game with a call and a betting amount as parameters.
+
+> > > > > > > 91d3dc6bda5dba8b302b460f203ed46f09aa00ff
 
 **Thoughts:**
 Keep going.
@@ -1888,6 +1893,35 @@ https://www.hackerrank.com/interview/interview-preparation-kit
 # Day 174 :[7/29/2019](Korea)
 
 **Today's Progress**
+<<<<<<< HEAD
+More practice with NumPy. Usually with array.
+=======
+More basic Python. Mostly playing around with manipulating lists. I hope I'm making more progress than I feel like I am.
+
+> > > > > > > 91d3dc6bda5dba8b302b460f203ed46f09aa00ff
+
+**Thoughts:**
+Keep going.
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
+<<<<<<< HEAD
+=======
+
+# Day 175 :[7/30/2019](Korea)
+
+**Today's Progress**
+More loop manipulation and linear regression problem solving with Jupyter notebook.
+
+**Thoughts:**
+Keep going.
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
+
+# Day 176 :[7/31/2019](Korea)
+
+**Today's Progress**
 More practice with NumPy. Usually with array.
 
 **Thoughts:**
@@ -1895,3 +1929,5 @@ Keep going.
 
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
+
+> > > > > > > 91d3dc6bda5dba8b302b460f203ed46f09aa00ff
