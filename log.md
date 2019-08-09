@@ -1931,3 +1931,14 @@ Keep going.
 https://www.hackerrank.com/interview/interview-preparation-kit
 
 > > > > > > > 91d3dc6bda5dba8b302b460f203ed46f09aa00ff
+
+# Day 177 :[8/1/2019](Korea)
+
+**Today's Progress**
+Practice with Numpy statistical method to figure out the mean, median, percentiles and interquartile range.
+
+**Thoughts:**
+Keep going.
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
