@@ -1942,3 +1942,14 @@ Keep going.
 
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
+
+# Day 178 :[8/2/2019](Korea)
+
+**Today's Progress**
+Practiced plotting given data out using matplotlib and NumPy. Brings back memories from stats classes.
+
+**Thoughts:**
+Keep going.
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
