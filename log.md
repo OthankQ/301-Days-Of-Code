@@ -1954,7 +1954,7 @@ Keep going.
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
 
-# Day 178 :[8/2/2019](Korea)
+# Day 178 :[8/3/2019](Korea)
 
 **Today's Progress**
 Went back to check on my SQL and noticed I had forgotten a lot about join functions. Time to get back to practicing SQL.
@@ -1964,3 +1964,15 @@ Keep going.
 
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
+
+# Day 179 :[8/17/2019]
+
+**Today's Progress**
+Started teaching myself PHP as I felt like I will be needing it for the upcoming semester. Basic syntax and a few string operators.
+
+**Thoughts:**
+Keep going.
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
+
