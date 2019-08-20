@@ -1976,3 +1976,13 @@ Keep going.
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
 
+# Day 180 :[8/19/2019]
+
+**Today's Progress**
+More PHP basics. Mostly operators.
+
+**Thoughts:**
+Keep going.
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
