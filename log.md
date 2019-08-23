@@ -1986,3 +1986,14 @@ Keep going.
 
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
+
+# Day 181 :[8/22/2019]
+
+**Today's Progress**
+Went over the basics of HTML just to get ready for the upcoming coursework.
+
+**Thoughts:**
+Keep going.
+
+**Link to work:**
+https://www.hackerrank.com/interview/interview-preparation-kit
