@@ -1998,7 +1998,7 @@ Keep going.
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
 
-# Day 182 :[9/11/2019]
+# Day 182 :[9/10/2019]
 
 **Today's Progress**
 Free code camp React Challenges
@@ -2008,3 +2008,14 @@ Keep going.
 
 **Link to work:**
 https://www.hackerrank.com/interview/interview-preparation-kit
+
+# Day 183 :[9/11/2019]
+
+**Today's Progress**
+Design to code Youtube video walkthrough mobile version complete.
+
+**Thoughts:**
+Feeling refreshed coming back to basic front-end coding.
+
+**Link to work:**
+https://github.com/OthankQ/UITUT
