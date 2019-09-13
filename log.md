@@ -2019,3 +2019,14 @@ Feeling refreshed coming back to basic front-end coding.
 
 **Link to work:**
 https://github.com/OthankQ/UITUT
+
+# Day 184 :[9/12/2019]
+
+**Today's Progress**
+Added media queries and parallax effect to the page.
+
+**Thoughts:**
+Interesting to see how parallax works.
+
+**Link to work:**
+https://github.com/OthankQ/UITUT
