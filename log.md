@@ -2030,3 +2030,13 @@ Interesting to see how parallax works.
 
 **Link to work:**
 https://github.com/OthankQ/UITUT
+
+# Day 185 :[9/13/2019]
+
+**Today's Progress**
+Finished an assignment for class where I had to build two versions of a website. One using pure JS and the other using jQuery :S Started looking into Vue.js
+
+**Thoughts:**
+Vue.js looks much more intuitive than React.js to me.
+
+**Link to work:**
