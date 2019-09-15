@@ -2040,3 +2040,13 @@ Finished an assignment for class where I had to build two versions of a website.
 Vue.js looks much more intuitive than React.js to me.
 
 **Link to work:**
+
+# Day 186 :[9/14/2019]
+
+**Today's Progress**
+Finished the back end code for the gamertag tracker app. Installed dependencies I will be needing for the Vue front end before wrapping things up.
+
+**Thoughts:**
+Will be interesting to see how Vue works compared to React.
+
+**Link to work:**
