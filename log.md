@@ -2050,3 +2050,13 @@ Finished the back end code for the gamertag tracker app. Installed dependencies 
 Will be interesting to see how Vue works compared to React.
 
 **Link to work:**
+
+# Day 187 :[9/15/2019]
+
+**Today's Progress**
+Before getting into building the front end with Vue, decided to take Vue crash course. So far seeing a lot of similarities with React. Built a todo item component within todos component.
+
+**Thoughts:**
+Seeing a lot of similarities between Vue and React.
+
+**Link to work:**
