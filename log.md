@@ -2060,3 +2060,13 @@ Before getting into building the front end with Vue, decided to take Vue crash c
 Seeing a lot of similarities between Vue and React.
 
 **Link to work:**
+
+# Day 188 :[9/16/2019]
+
+**Today's Progress**
+Practiced setting up a Wordpress website on a local machine using Docker. Fascinating stuff. Added delete functionality to a todo list I'm building as a crash course into Vue.
+
+**Thoughts:**
+It was great to see what Docker was all about. Great stuff! Also, Vue's emitting I think is easier to understand than React's way.
+
+**Link to work:**
