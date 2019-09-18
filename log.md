@@ -2070,3 +2070,13 @@ Practiced setting up a Wordpress website on a local machine using Docker. Fascin
 It was great to see what Docker was all about. Great stuff! Also, Vue's emitting I think is easier to understand than React's way.
 
 **Link to work:**
+
+# Day 189 :[9/17/2019]
+
+**Today's Progress**
+Added header and searchbar component to the vue todo list. Next, add the functionality.
+
+**Thoughts:**
+Vue is easier to read.
+
+**Link to work:**
