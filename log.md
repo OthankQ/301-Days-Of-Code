@@ -2080,3 +2080,13 @@ Added header and searchbar component to the vue todo list. Next, add the functio
 Vue is easier to read.
 
 **Link to work:**
+
+# Day 190 :[9/18/2019]
+
+**Today's Progress**
+Added adding functionality to the searchbar component.
+
+**Thoughts:**
+Emitting is interesting.
+
+**Link to work:**
