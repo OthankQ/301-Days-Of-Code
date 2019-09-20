@@ -2090,3 +2090,13 @@ Added adding functionality to the searchbar component.
 Emitting is interesting.
 
 **Link to work:**
+
+# Day 190 :[9/18/2019]
+
+**Today's Progress**
+Used Axios and Jsonplaceholder to send get request to fetch for dummy data instead of hard coded data. Installed and added vue router links.
+
+**Thoughts:**
+Wrapped up the crash course. Back to Apex tracker.
+
+**Link to work:**
