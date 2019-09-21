@@ -2100,3 +2100,13 @@ Used Axios and Jsonplaceholder to send get request to fetch for dummy data inste
 Wrapped up the crash course. Back to Apex tracker.
 
 **Link to work:**
+
+# Day 191 :[9/19/2019]
+
+**Today's Progress**
+Interviewed for a web dev job at my school and realized just how much of HTML and CSS I was overlooking just concetrating on frameworks. Started coding out designs with just HTML and CSS for practice.
+
+**Thoughts:**
+Before the tracker, I felt the need for practice on structuring and CSS.
+
+**Link to work:**
