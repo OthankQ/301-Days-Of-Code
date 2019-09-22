@@ -2110,3 +2110,13 @@ Interviewed for a web dev job at my school and realized just how much of HTML an
 Before the tracker, I felt the need for practice on structuring and CSS.
 
 **Link to work:**
+
+# Day 192 :[9/20/2019]
+
+**Today's Progress**
+Finished the Header and the first and the second section of the main section of the CSS practice site.
+
+**Thoughts:**
+How to practice CSS effectively?
+
+**Link to work:**
