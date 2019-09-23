@@ -2120,3 +2120,13 @@ Finished the Header and the first and the second section of the main section of 
 How to practice CSS effectively?
 
 **Link to work:**
+
+# Day 193 :[9/21/2019]
+
+**Today's Progress**
+Finished a responsive website assignment using grid and flexbox. Also studied upon promises and callbacks.
+
+**Thoughts:**
+Trying to sit through a tutorial video seems so boring now...
+
+**Link to work:**
