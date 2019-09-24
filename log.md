@@ -2130,3 +2130,14 @@ Finished a responsive website assignment using grid and flexbox. Also studied up
 Trying to sit through a tutorial video seems so boring now...
 
 **Link to work:**
+
+# Day 194 :[9/22/2019]
+
+**Today's Progress**
+A good friend of mine in the field told me of this site called @laracasts and started the Vue tutorial. Completed 6 of them so far but I love the challenges the creator put into the lessons.
+
+**Thoughts:**
+New way of looking at Vue. Might checkout their php lessons.
+
+**Link to work:**
+
