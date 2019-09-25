@@ -2141,3 +2141,12 @@ New way of looking at Vue. Might checkout their php lessons.
 
 **Link to work:**
 
+# Day 195 :[9/23/2019]
+
+**Today's Progress**
+Started coding a brand new portfolio site. Learned about separating out a vue component out of HTML and creating it globally.
+
+**Thoughts:**
+Practiced a good amount of sass.
+
+**Link to work:**
