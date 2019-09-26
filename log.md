@@ -2150,3 +2150,13 @@ Started coding a brand new portfolio site. Learned about separating out a vue co
 Practiced a good amount of sass.
 
 **Link to work:**
+
+# Day 196 :[9/24/2019]
+
+**Today's Progress**
+Finished halfway through building the homepage for my new portfolio site.
+
+**Thoughts:**
+Time to start strengthening my basics.
+
+**Link to work:**
