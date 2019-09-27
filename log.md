@@ -2160,3 +2160,13 @@ Finished halfway through building the homepage for my new portfolio site.
 Time to start strengthening my basics.
 
 **Link to work:**
+
+# Day 197 :[9/25/2019]
+
+**Today's Progress**
+Went back to the basics and practiced HTML and CSS by making a copy site out of NASA.com website. Currently finished with the nav bar.
+
+**Thoughts:**
+Time to start strengthening my basics.
+
+**Link to work:**
