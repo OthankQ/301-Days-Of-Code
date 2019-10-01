@@ -2170,3 +2170,23 @@ Went back to the basics and practiced HTML and CSS by making a copy site out of 
 Time to start strengthening my basics.
 
 **Link to work:**
+
+# Day 198 :[9/27/2019]
+
+**Today's Progress**
+Learned how to separate the logic portion and the presentation portion of a php project.
+
+**Thoughts:**
+PHP could be really useful. It works similar to how Vue and React works.
+
+**Link to work:**
+
+# Day 199 :[9/30/2019]
+
+**Today's Progress**
+Made a copy of Google main page for HTML and CSS positioning practice.
+
+**Thoughts:**
+Practice, practice.
+
+**Link to work:**
