@@ -2190,3 +2190,13 @@ Made a copy of Google main page for HTML and CSS positioning practice.
 Practice, practice.
 
 **Link to work:**
+
+# Day 200 :[10/2/2019]
+
+**Today's Progress**
+More PHP arrays. Completed activities on how to design relational database based on real life market receipts. Had fun and learned a lot.
+
+**Thoughts:**
+I would like to see what this php and laravel is about.
+
+**Link to work:**
