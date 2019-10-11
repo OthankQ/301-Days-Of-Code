@@ -2200,3 +2200,13 @@ More PHP arrays. Completed activities on how to design relational database based
 I would like to see what this php and laravel is about.
 
 **Link to work:**
+
+# Day 201 :[10/10/2019]
+
+**Today's Progress**
+Copying YouTube homepage for vanilla HTML and CSS practice. Navbar sidebar and video card grid done.
+
+**Thoughts:**
+Vanilla HTML and CSS: important.
+
+**Link to work:**
