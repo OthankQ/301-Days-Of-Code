@@ -2210,3 +2210,13 @@ Copying YouTube homepage for vanilla HTML and CSS practice. Navbar sidebar and v
 Vanilla HTML and CSS: important.
 
 **Link to work:**
+
+# Day 202 :[10/11/2019]
+
+**Today's Progress**
+For more HTML and CSS practice, started making a copy of mint.com's webpage. This time focusing on 'mobile first' and making it responsive.
+
+**Thoughts:**
+Should start teaching myself Vue, quick.
+
+**Link to work:**
