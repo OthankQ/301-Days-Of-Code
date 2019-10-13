@@ -2220,3 +2220,13 @@ For more HTML and CSS practice, started making a copy of mint.com's webpage. Thi
 Should start teaching myself Vue, quick.
 
 **Link to work:**
+
+# Day 203 :[10/12/2019]
+
+**Today's Progress**
+Still continuing with the page cloning. Created the card component. As a JS practice, started building a JS template engine to understand what React or any other frameworks are doing behind the scene.
+
+**Thoughts:**
+Should start teaching myself Vue.
+
+**Link to work:**
