@@ -2230,3 +2230,12 @@ Still continuing with the page cloning. Created the card component. As a JS prac
 Should start teaching myself Vue.
 
 **Link to work:**
+
+# Day 204 :[10/13/2019]
+
+**Today's Progress**
+More mint.com page cloning and php laracasts. Learned a lot about php by completing an assessment test.
+
+**Thoughts:**
+
+**Link to work:**
