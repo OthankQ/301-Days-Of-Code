@@ -2239,3 +2239,12 @@ More mint.com page cloning and php laracasts. Learned a lot about php by complet
 **Thoughts:**
 
 **Link to work:**
+
+# Day 205 :[10/14/2019]
+
+**Today's Progress**
+Started working on a fb messenger style chat app with my buddy. So far I have it to where once the user can type in an input and either hit a button or the enter key to make the message appear on screen as a div.
+
+**Thoughts:**
+
+**Link to work:**
