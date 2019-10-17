@@ -2248,3 +2248,12 @@ Started working on a fb messenger style chat app with my buddy. So far I have it
 **Thoughts:**
 
 **Link to work:**
+
+# Day 206 :[10/15/2019]
+
+**Today's Progress**
+Working on how to setup a backend for the chat-app me and my buddies started building yesterday. Played around with Laravel to see how it handles the backend.
+
+**Thoughts:**
+
+**Link to work:**
